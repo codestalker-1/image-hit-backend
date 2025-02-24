@@ -1,7 +1,8 @@
 import winston from "winston";
 import path from "path";
 import fs from "fs";
-
+import { fileURLToPath } from "url";
+const __filename = fileURLToPath(import.meta.url);
 // Ensure logs directory exists
 const logDir = path.join(process.cwd(), "logs");
 if (!fs.existsSync(logDir)) {
@@ -18,6 +19,9 @@ const logger = winston.createLogger({
   level: "info",
   format: winston.format.combine(
     winston.format.timestamp({ format: "YYYY-MM-DD HH:mm:ss" }),
+    winston.format((info) => {
+      return info;
+    })(),
     logFormat
   ),
   transports: [

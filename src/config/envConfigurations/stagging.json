@@ -1,6 +1,6 @@
 {
   "PORT": 5001,
-  "MONGO_URI": "mongodb://localhost:27017/imagehit",
+  "MONGO_URI": "mongodb://localhost:27017/imagehit1",
   "JWT_SECRET": "mysecretkey",
   "JWT_REFRESH_SECRET": "myrefresh"
 }

@@ -28,21 +28,21 @@ export function getHostname(url) {
 export async function createDirectory(directory) {
   try {
     await fs.ensureDir(directory);
-    console.log(`Directory created or already exists: ${directory}`);
+    logger.info(`Directory created or already exists: ${directory}`);
   } catch (error) {
     console.error(`Error creating directory: ${error}`);
   }
 }
 
 export async function downloadFileSync(downloadUrl, savePath) {
-  console.log(`Starting download: ${downloadUrl}`);
+  logger.info(`Starting download: ${downloadUrl}`);
 
   try {
     // Ensure directory exists
     const dir = path.dirname(savePath);
     if (!fs.existsSync(dir)) {
       fs.mkdirSync(dir, { recursive: true });
-      console.log(`Directory created: ${dir}`);
+      logger.info(`Directory created: ${dir}`);
     }
 
     const response = await axios.get(downloadUrl, { responseType: "stream" });
@@ -52,7 +52,7 @@ export async function downloadFileSync(downloadUrl, savePath) {
     }
 
     await streamToFile(response.data, savePath);
-    console.log(`Download completed: ${savePath}`);
+    logger.info(`Download completed: ${savePath}`);
 
     return savePath; // ✅ Return the file path
   } catch (error) {

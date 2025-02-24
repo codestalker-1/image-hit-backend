@@ -1,215 +1,74 @@
-2025-02-21 02:35:10 [WARN]: Server running in stagging mode on port 5001
-2025-02-21 02:35:10 [INFO]: ✅ MongoDB Connected: localhost
-2025-02-21 02:35:12 [WARN]: Server running in stagging mode on port 5001
-2025-02-21 02:35:12 [INFO]: ✅ MongoDB Connected: localhost
-2025-02-21 02:35:15 [WARN]: Server running in stagging mode on port 5001
-2025-02-21 02:35:15 [INFO]: ✅ MongoDB Connected: localhost
-2025-02-21 02:35:22 [WARN]: Server running in stagging mode on port 5001
-2025-02-21 02:35:22 [INFO]: ✅ MongoDB Connected: localhost
-2025-02-21 02:35:27 [WARN]: Server running in stagging mode on port 5001
-2025-02-21 02:35:27 [INFO]: ✅ MongoDB Connected: localhost
-2025-02-21 02:35:32 [WARN]: Server running in stagging mode on port 5001
-2025-02-21 02:35:32 [INFO]: ✅ MongoDB Connected: localhost
-2025-02-21 02:35:34 [WARN]: Server running in stagging mode on port 5001
-2025-02-21 02:35:34 [INFO]: ✅ MongoDB Connected: localhost
-2025-02-21 02:35:41 [WARN]: Server running in stagging mode on port 5001
-2025-02-21 02:35:41 [INFO]: ✅ MongoDB Connected: localhost
-2025-02-21 02:36:03 [WARN]: Server running in stagging mode on port 5001
-2025-02-21 02:36:03 [INFO]: ✅ MongoDB Connected: localhost
-2025-02-21 02:36:05 [INFO]: Sending file: /Users/user/Desktop/image-hit-backend/cache/emanage.ethoswatches.com/img/uploads/banners/2025/02/0x0/ethoswatches_desktop06_02_2025_1005224306.jpg
-2025-02-21 02:36:15 [WARN]: Server running in stagging mode on port 5001
-2025-02-21 02:36:15 [INFO]: ✅ MongoDB Connected: localhost
-2025-02-21 02:36:16 [WARN]: Server running in stagging mode on port 5001
-2025-02-21 02:36:16 [INFO]: ✅ MongoDB Connected: localhost
-2025-02-21 02:36:17 [WARN]: Server running in stagging mode on port 5001
-2025-02-21 02:36:17 [INFO]: ✅ MongoDB Connected: localhost
-2025-02-21 02:36:19 [WARN]: Server running in stagging mode on port 5001
-2025-02-21 02:36:19 [INFO]: ✅ MongoDB Connected: localhost
-2025-02-21 02:36:21 [WARN]: Server running in stagging mode on port 5001
-2025-02-21 02:36:21 [INFO]: ✅ MongoDB Connected: localhost
-2025-02-21 02:36:25 [WARN]: Server running in stagging mode on port 5001
-2025-02-21 02:36:25 [INFO]: ✅ MongoDB Connected: localhost
-2025-02-21 02:36:27 [WARN]: Server running in stagging mode on port 5001
-2025-02-21 02:36:27 [INFO]: ✅ MongoDB Connected: localhost
-2025-02-21 02:36:29 [INFO]: Sending file: /Users/user/Desktop/image-hit-backend/cache/emanage.ethoswatches.com/img/uploads/banners/2025/02/0x0/ethoswatches_desktop06_02_2025_1005224306.jpg
-2025-02-21 02:36:35 [WARN]: Server running in stagging mode on port 5001
-2025-02-21 02:36:35 [INFO]: ✅ MongoDB Connected: localhost
-2025-02-21 02:36:47 [WARN]: Server running in stagging mode on port 5001
-2025-02-21 02:36:47 [INFO]: ✅ MongoDB Connected: localhost
-2025-02-21 02:36:49 [INFO]: Sending file: /Users/user/Desktop/image-hit-backend/cache/emanage.ethoswatches.com/img/uploads/banners/2025/02/0x0/ethoswatches_desktop06_02_2025_1005224306.jpg
-2025-02-21 02:36:55 [WARN]: Server running in stagging mode on port 5001
-2025-02-21 02:36:55 [INFO]: ✅ MongoDB Connected: localhost
-2025-02-21 02:37:02 [WARN]: Server running in stagging mode on port 5001
-2025-02-21 02:37:02 [INFO]: ✅ MongoDB Connected: localhost
-2025-02-21 02:37:08 [WARN]: Server running in stagging mode on port 5001
-2025-02-21 02:37:08 [INFO]: ✅ MongoDB Connected: localhost
-2025-02-21 02:37:11 [INFO]: Processing image: /Users/user/Desktop/image-hit-backend/cache/emanage.ethoswatches.com/img/uploads/banners/2025/02/0x0/ethoswatches_desktop06_02_2025_1005224306.jpg
-2025-02-21 02:37:11 [INFO]: Sending file: /Users/user/Desktop/image-hit-backend/cache/emanage.ethoswatches.com/img/uploads/banners/2025/02/0x0/ethoswatches_desktop06_02_2025_1005224306.jpg
-2025-02-21 02:37:54 [WARN]: Server running in stagging mode on port 5001
-2025-02-21 02:37:54 [INFO]: ✅ MongoDB Connected: localhost
-2025-02-21 02:37:55 [WARN]: Server running in stagging mode on port 5001
-2025-02-21 02:37:55 [INFO]: ✅ MongoDB Connected: localhost
-2025-02-21 02:38:09 [WARN]: Server running in stagging mode on port 5001
-2025-02-21 02:38:09 [INFO]: ✅ MongoDB Connected: localhost
-2025-02-21 02:38:11 [WARN]: Server running in stagging mode on port 5001
-2025-02-21 02:38:11 [INFO]: ✅ MongoDB Connected: localhost
-2025-02-21 02:38:24 [WARN]: Server running in stagging mode on port 5001
-2025-02-21 02:38:24 [INFO]: ✅ MongoDB Connected: localhost
-2025-02-21 02:38:27 [INFO]: Processing image: /Users/user/Desktop/image-hit-backend/cache/emanage.ethoswatches.com/img/uploads/banners/2025/02/0x0/ethoswatches_desktop06_02_2025_1005224306.jpg
-2025-02-21 02:38:27 [INFO]: Sending file: /Users/user/Desktop/image-hit-backend/cache/emanage.ethoswatches.com/img/uploads/banners/2025/02/0x0/ethoswatches_desktop06_02_2025_1005224306.jpg
-2025-02-21 02:38:36 [WARN]: Server running in stagging mode on port 5001
-2025-02-21 02:38:36 [INFO]: ✅ MongoDB Connected: localhost
-2025-02-21 02:38:41 [WARN]: Server running in stagging mode on port 5001
-2025-02-21 02:38:41 [INFO]: ✅ MongoDB Connected: localhost
-2025-02-21 02:38:48 [WARN]: Server running in stagging mode on port 5001
-2025-02-21 02:38:48 [INFO]: ✅ MongoDB Connected: localhost
-2025-02-21 02:38:51 [INFO]: Processing image: /Users/user/Desktop/image-hit-backend/cache/emanage.ethoswatches.com/img/uploads/banners/2025/02/0x0/ethoswatches_desktop06_02_2025_1005224306.jpg
-2025-02-21 02:38:51 [INFO]: Sending file: /Users/user/Desktop/image-hit-backend/cache/emanage.ethoswatches.com/img/uploads/banners/2025/02/0x0/ethoswatches_desktop06_02_2025_1005224306.jpg
-2025-02-21 02:38:56 [INFO]: Processing image: /Users/user/Desktop/image-hit-backend/cache/emanage.ethoswatches.com/img/uploads/banners/2025/02/0x0/ethoswatches_desktop06_02_2025_1005224306.jpg
-2025-02-21 02:38:56 [INFO]: Sending file: /Users/user/Desktop/image-hit-backend/cache/emanage.ethoswatches.com/img/uploads/banners/2025/02/0x0/ethoswatches_desktop06_02_2025_1005224306.jpg
-2025-02-21 02:38:59 [INFO]: Processing image: /Users/user/Desktop/image-hit-backend/cache/emanage.ethoswatches.com/img/uploads/banners/2025/02/0x0/ethoswatches_desktop06_02_2025_1005224306.jpg
-2025-02-21 02:38:59 [INFO]: Sending file: /Users/user/Desktop/image-hit-backend/cache/emanage.ethoswatches.com/img/uploads/banners/2025/02/0x0/ethoswatches_desktop06_02_2025_1005224306.jpg
-2025-02-21 02:39:05 [WARN]: Server running in stagging mode on port 5001
-2025-02-21 02:39:05 [INFO]: ✅ MongoDB Connected: localhost
-2025-02-21 02:39:08 [WARN]: Server running in stagging mode on port 5001
-2025-02-21 02:39:08 [INFO]: ✅ MongoDB Connected: localhost
-2025-02-21 02:39:10 [WARN]: Server running in stagging mode on port 5001
-2025-02-21 02:39:10 [INFO]: ✅ MongoDB Connected: localhost
-2025-02-21 02:39:12 [INFO]: Processing image: /Users/user/Desktop/image-hit-backend/cache/emanage.ethoswatches.com/img/uploads/banners/2025/02/0x0/ethoswatches_desktop06_02_2025_1005224306.jpg with "/Users/user/Desktop/image-hit-backend/cache/emanage.ethoswatches.com./0x0/"
-2025-02-21 02:39:12 [INFO]: Sending file: /Users/user/Desktop/image-hit-backend/cache/emanage.ethoswatches.com/img/uploads/banners/2025/02/0x0/ethoswatches_desktop06_02_2025_1005224306.jpg
-2025-02-21 02:39:58 [WARN]: Server running in stagging mode on port 5001
-2025-02-21 02:39:58 [INFO]: ✅ MongoDB Connected: localhost
-2025-02-21 02:40:00 [WARN]: Server running in stagging mode on port 5001
-2025-02-21 02:40:01 [INFO]: ✅ MongoDB Connected: localhost
-2025-02-21 02:40:04 [INFO]: Processing image: /Users/user/Desktop/image-hit-backend/cache/emanage.ethoswatches.com/img/uploads/banners/2025/02/0x0/ethoswatches_desktop06_02_2025_1005224306.jpg with {"width":0,"height":0,"crop":false,"quality":100,"resize":false,"format":"","rotate":0}
-2025-02-21 02:40:04 [INFO]: Applying format:  and quality: 100
-2025-02-21 02:40:04 [INFO]: Sending file: /Users/user/Desktop/image-hit-backend/cache/emanage.ethoswatches.com/img/uploads/banners/2025/02/0x0/ethoswatches_desktop06_02_2025_1005224306.jpg
-2025-02-21 02:40:15 [INFO]: Processing image: /Users/user/Desktop/image-hit-backend/cache/emanage.ethoswatches.com/img/uploads/banners/2025/02/0x0/ethoswatches_desktop06_02_2025_1005224306.jpg with {"width":0,"height":0,"crop":false,"quality":10,"resize":false,"format":"","rotate":0}
-2025-02-21 02:40:15 [INFO]: Applying format:  and quality: 10
-2025-02-21 02:40:15 [INFO]: Sending file: /Users/user/Desktop/image-hit-backend/cache/emanage.ethoswatches.com/img/uploads/banners/2025/02/0x0/ethoswatches_desktop06_02_2025_1005224306.jpg
-2025-02-21 02:40:26 [INFO]: Processing image: /Users/user/Desktop/image-hit-backend/cache/emanage.ethoswatches.com/img/uploads/banners/2025/02/0x0/ethoswatches_desktop06_02_2025_1005224306.jpg with {"width":0,"height":0,"crop":false,"quality":90,"resize":false,"format":"","rotate":0}
-2025-02-21 02:40:26 [INFO]: Applying format:  and quality: 90
-2025-02-21 02:40:27 [INFO]: Sending file: /Users/user/Desktop/image-hit-backend/cache/emanage.ethoswatches.com/img/uploads/banners/2025/02/0x0/ethoswatches_desktop06_02_2025_1005224306.jpg
-2025-02-21 02:40:35 [INFO]: Processing image: /Users/user/Desktop/image-hit-backend/cache/emanage.ethoswatches.com/img/uploads/banners/2025/02/0x0/ethoswatches_desktop06_02_2025_1005224306.jpg with {"width":0,"height":0,"crop":false,"quality":90,"resize":false,"format":"png","rotate":0}
-2025-02-21 02:40:35 [INFO]: Applying format: png and quality: 90
-2025-02-21 02:40:35 [INFO]: Applying format: png and quality: 90
-2025-02-21 02:40:36 [INFO]: Sending file: /Users/user/Desktop/image-hit-backend/cache/emanage.ethoswatches.com/img/uploads/banners/2025/02/0x0/ethoswatches_desktop06_02_2025_1005224306.png
-2025-02-21 02:40:47 [INFO]: Processing image: /Users/user/Desktop/image-hit-backend/cache/emanage.ethoswatches.com/img/uploads/banners/2025/02/0x0/ethoswatches_desktop06_02_2025_1005224306.jpg with {"width":0,"height":0,"crop":false,"quality":90,"resize":false,"format":"webp","rotate":0}
-2025-02-21 02:40:47 [INFO]: Applying format: webp and quality: 90
-2025-02-21 02:40:47 [INFO]: Applying format: webp and quality: 90
-2025-02-21 02:40:47 [INFO]: Sending file: /Users/user/Desktop/image-hit-backend/cache/emanage.ethoswatches.com/img/uploads/banners/2025/02/0x0/ethoswatches_desktop06_02_2025_1005224306.webp
-2025-02-21 02:40:54 [INFO]: Processing image: /Users/user/Desktop/image-hit-backend/cache/emanage.ethoswatches.com/img/uploads/banners/2025/02/0x0/ethoswatches_desktop06_02_2025_1005224306.jpg with {"width":0,"height":0,"crop":false,"quality":80,"resize":false,"format":"webp","rotate":0}
-2025-02-21 02:40:54 [INFO]: Applying format: webp and quality: 80
-2025-02-21 02:40:54 [INFO]: Applying format: webp and quality: 80
-2025-02-21 02:40:55 [INFO]: Sending file: /Users/user/Desktop/image-hit-backend/cache/emanage.ethoswatches.com/img/uploads/banners/2025/02/0x0/ethoswatches_desktop06_02_2025_1005224306.webp
-2025-02-21 02:41:02 [INFO]: Processing image: /Users/user/Desktop/image-hit-backend/cache/emanage.ethoswatches.com/img/uploads/banners/2025/02/0x0/ethoswatches_desktop06_02_2025_1005224306.jpg with {"width":0,"height":0,"crop":false,"quality":50,"resize":false,"format":"webp","rotate":0}
-2025-02-21 02:41:02 [INFO]: Applying format: webp and quality: 50
-2025-02-21 02:41:02 [INFO]: Applying format: webp and quality: 50
-2025-02-21 02:41:02 [INFO]: Sending file: /Users/user/Desktop/image-hit-backend/cache/emanage.ethoswatches.com/img/uploads/banners/2025/02/0x0/ethoswatches_desktop06_02_2025_1005224306.webp
-2025-02-21 02:41:06 [INFO]: Processing image: /Users/user/Desktop/image-hit-backend/cache/emanage.ethoswatches.com/img/uploads/banners/2025/02/0x0/ethoswatches_desktop06_02_2025_1005224306.jpg with {"width":0,"height":0,"crop":false,"quality":10,"resize":false,"format":"webp","rotate":0}
-2025-02-21 02:41:06 [INFO]: Applying format: webp and quality: 10
-2025-02-21 02:41:06 [INFO]: Applying format: webp and quality: 10
-2025-02-21 02:41:07 [INFO]: Sending file: /Users/user/Desktop/image-hit-backend/cache/emanage.ethoswatches.com/img/uploads/banners/2025/02/0x0/ethoswatches_desktop06_02_2025_1005224306.webp
-2025-02-21 02:41:25 [INFO]: Processing image: /Users/user/Desktop/image-hit-backend/cache/emanage.ethoswatches.com/img/uploads/banners/2025/02/0x0/ethoswatches_desktop06_02_2025_1005224306.jpg with {"width":0,"height":0,"crop":false,"quality":10,"resize":false,"format":"webp","rotate":0}
-2025-02-21 02:41:25 [INFO]: Applying format: webp and quality: 10
-2025-02-21 02:41:25 [INFO]: Applying format: webp and quality: 10
-2025-02-21 02:41:25 [INFO]: Sending file: /Users/user/Desktop/image-hit-backend/cache/emanage.ethoswatches.com/img/uploads/banners/2025/02/0x0/ethoswatches_desktop06_02_2025_1005224306.webp
-2025-02-21 02:41:36 [INFO]: Processing image: /Users/user/Desktop/image-hit-backend/cache/emanage.ethoswatches.com/img/uploads/banners/2025/02/0x0/ethoswatches_desktop06_02_2025_1005224306.jpg with {"width":0,"height":0,"crop":false,"quality":80,"resize":false,"format":"webp","rotate":0}
-2025-02-21 02:41:36 [INFO]: Applying format: webp and quality: 80
-2025-02-21 02:41:36 [INFO]: Applying format: webp and quality: 80
-2025-02-21 02:41:36 [INFO]: Sending file: /Users/user/Desktop/image-hit-backend/cache/emanage.ethoswatches.com/img/uploads/banners/2025/02/0x0/ethoswatches_desktop06_02_2025_1005224306.webp
-2025-02-21 02:41:45 [INFO]: Processing image: /Users/user/Desktop/image-hit-backend/cache/emanage.ethoswatches.com/img/uploads/banners/2025/02/0x0/ethoswatches_desktop06_02_2025_1005224306.jpg with {"width":0,"height":0,"crop":false,"quality":100,"resize":false,"format":"webp","rotate":0}
-2025-02-21 02:41:45 [INFO]: Applying format: webp and quality: 100
-2025-02-21 02:41:45 [INFO]: Applying format: webp and quality: 100
-2025-02-21 02:41:46 [INFO]: Sending file: /Users/user/Desktop/image-hit-backend/cache/emanage.ethoswatches.com/img/uploads/banners/2025/02/0x0/ethoswatches_desktop06_02_2025_1005224306.webp
-2025-02-21 02:42:16 [INFO]: Processing image: /Users/user/Desktop/image-hit-backend/cache/emanage.ethoswatches.com/img/uploads/banners/2025/02/0x0/ethoswatches_desktop06_02_2025_1005224306.jpg with {"width":0,"height":0,"crop":false,"quality":100,"resize":false,"format":"webp","rotate":0}
-2025-02-21 02:42:16 [INFO]: Applying format: webp and quality: 100
-2025-02-21 02:42:16 [INFO]: Applying format: webp and quality: 100
-2025-02-21 02:42:17 [INFO]: Sending file: /Users/user/Desktop/image-hit-backend/cache/emanage.ethoswatches.com/img/uploads/banners/2025/02/0x0/ethoswatches_desktop06_02_2025_1005224306.webp
-2025-02-21 02:42:18 [INFO]: Processing image: /Users/user/Desktop/image-hit-backend/cache/emanage.ethoswatches.com/img/uploads/banners/2025/02/0x0/ethoswatches_desktop06_02_2025_1005224306.jpg with {"width":0,"height":0,"crop":false,"quality":100,"resize":false,"format":"webp","rotate":0}
-2025-02-21 02:42:18 [INFO]: Applying format: webp and quality: 100
-2025-02-21 02:42:18 [INFO]: Applying format: webp and quality: 100
-2025-02-21 02:42:18 [INFO]: Sending file: /Users/user/Desktop/image-hit-backend/cache/emanage.ethoswatches.com/img/uploads/banners/2025/02/0x0/ethoswatches_desktop06_02_2025_1005224306.webp
-2025-02-21 02:42:25 [INFO]: Processing image: /Users/user/Desktop/image-hit-backend/cache/emanage.ethoswatches.com/img/uploads/banners/2025/02/0x0/ethoswatches_desktop06_02_2025_1005224306.jpg with {"width":0,"height":0,"crop":false,"quality":100,"resize":false,"format":"webp","rotate":90}
-2025-02-21 02:42:25 [INFO]: Applying format: webp and quality: 100
-2025-02-21 02:42:25 [INFO]: Applying format: webp and quality: 100
-2025-02-21 02:42:25 [INFO]: Sending file: /Users/user/Desktop/image-hit-backend/cache/emanage.ethoswatches.com/img/uploads/banners/2025/02/0x0/ethoswatches_desktop06_02_2025_1005224306_rotated90.webp
-2025-02-21 02:43:19 [INFO]: Processing image: /Users/user/Desktop/image-hit-backend/cache/emanage.ethoswatches.com/img/uploads/banners/2025/02/0x0/ethoswatches_desktop06_02_2025_1005224306.jpg with {"width":0,"height":0,"crop":false,"quality":100,"resize":false,"format":"webp","rotate":90}
-2025-02-21 02:43:19 [INFO]: Applying format: webp and quality: 100
-2025-02-21 02:43:19 [INFO]: Applying format: webp and quality: 100
-2025-02-21 02:43:19 [INFO]: Sending file: /Users/user/Desktop/image-hit-backend/cache/emanage.ethoswatches.com/img/uploads/banners/2025/02/0x0/ethoswatches_desktop06_02_2025_1005224306_rotated90.webp
-2025-02-21 02:43:26 [INFO]: Processing image: /Users/user/Desktop/image-hit-backend/cache/emanage.ethoswatches.com/img/uploads/banners/2025/02/0x0/ethoswatches_desktop06_02_2025_1005224306.jpg with {"width":0,"height":0,"crop":false,"quality":100,"resize":false,"format":"webp","rotate":70}
-2025-02-21 02:43:26 [INFO]: Applying format: webp and quality: 100
-2025-02-21 02:43:26 [INFO]: Applying format: webp and quality: 100
-2025-02-21 02:43:27 [INFO]: Sending file: /Users/user/Desktop/image-hit-backend/cache/emanage.ethoswatches.com/img/uploads/banners/2025/02/0x0/ethoswatches_desktop06_02_2025_1005224306_rotated70.webp
-2025-02-21 02:52:34 [WARN]: Server running in stagging mode on port 5001
-2025-02-21 02:52:34 [INFO]: ✅ MongoDB Connected: localhost
-2025-02-21 02:52:38 [WARN]: Server running in stagging mode on port 5001
-2025-02-21 02:52:38 [INFO]: ✅ MongoDB Connected: localhost
-2025-02-21 02:52:47 [WARN]: Server running in stagging mode on port 5001
-2025-02-21 02:52:47 [INFO]: ✅ MongoDB Connected: localhost
-2025-02-21 02:52:52 [INFO]: Processing image: /Users/user/Desktop/image-hit-backend/cache/emanage.ethoswatches.com/img/uploads/banners/2025/02/0x0/ethoswatches_desktop06_02_2025_1005224306.jpg with {"width":0,"height":0,"crop":false,"quality":100,"resize":false,"format":"webp","rotate":70}
-2025-02-21 02:53:03 [WARN]: Server running in stagging mode on port 5001
-2025-02-21 02:53:04 [INFO]: ✅ MongoDB Connected: localhost
-2025-02-21 02:53:14 [WARN]: Server running in stagging mode on port 5001
-2025-02-21 02:53:14 [INFO]: ✅ MongoDB Connected: localhost
-2025-02-21 02:53:17 [WARN]: Server running in stagging mode on port 5001
-2025-02-21 02:53:17 [INFO]: ✅ MongoDB Connected: localhost
-2025-02-21 02:53:22 [WARN]: Server running in stagging mode on port 5001
-2025-02-21 02:53:22 [INFO]: ✅ MongoDB Connected: localhost
-2025-02-21 02:53:27 [WARN]: Server running in stagging mode on port 5001
-2025-02-21 02:53:27 [INFO]: ✅ MongoDB Connected: localhost
-2025-02-21 02:53:29 [INFO]: Processing image: /Users/user/Desktop/image-hit-backend/cache/emanage.ethoswatches.com/img/uploads/banners/2025/02/0x0/ethoswatches_desktop06_02_2025_1005224306.jpg with {"width":0,"height":0,"crop":false,"quality":100,"resize":false,"format":"webp","rotate":70}
-2025-02-21 02:53:29 [INFO]: Image already exists: /Users/user/Desktop/image-hit-backend/cache/emanage.ethoswatches.com/img/uploads/banners/2025/02/0x0/ethoswatches_desktop06_02_2025_1005224306.webp
-2025-02-21 02:53:29 [INFO]: Sending file: /Users/user/Desktop/image-hit-backend/cache/emanage.ethoswatches.com/img/uploads/banners/2025/02/0x0/ethoswatches_desktop06_02_2025_1005224306.webp
-2025-02-21 02:53:30 [INFO]: Processing image: /Users/user/Desktop/image-hit-backend/cache/emanage.ethoswatches.com/img/uploads/banners/2025/02/0x0/ethoswatches_desktop06_02_2025_1005224306.jpg with {"width":0,"height":0,"crop":false,"quality":100,"resize":false,"format":"webp","rotate":70}
-2025-02-21 02:53:30 [INFO]: Image already exists: /Users/user/Desktop/image-hit-backend/cache/emanage.ethoswatches.com/img/uploads/banners/2025/02/0x0/ethoswatches_desktop06_02_2025_1005224306.webp
-2025-02-21 02:53:30 [INFO]: Sending file: /Users/user/Desktop/image-hit-backend/cache/emanage.ethoswatches.com/img/uploads/banners/2025/02/0x0/ethoswatches_desktop06_02_2025_1005224306.webp
-2025-02-21 02:53:31 [INFO]: Processing image: /Users/user/Desktop/image-hit-backend/cache/emanage.ethoswatches.com/img/uploads/banners/2025/02/0x0/ethoswatches_desktop06_02_2025_1005224306.jpg with {"width":0,"height":0,"crop":false,"quality":100,"resize":false,"format":"webp","rotate":70}
-2025-02-21 02:53:31 [INFO]: Image already exists: /Users/user/Desktop/image-hit-backend/cache/emanage.ethoswatches.com/img/uploads/banners/2025/02/0x0/ethoswatches_desktop06_02_2025_1005224306.webp
-2025-02-21 02:53:31 [INFO]: Sending file: /Users/user/Desktop/image-hit-backend/cache/emanage.ethoswatches.com/img/uploads/banners/2025/02/0x0/ethoswatches_desktop06_02_2025_1005224306.webp
-2025-02-21 02:53:32 [INFO]: Processing image: /Users/user/Desktop/image-hit-backend/cache/emanage.ethoswatches.com/img/uploads/banners/2025/02/0x0/ethoswatches_desktop06_02_2025_1005224306.jpg with {"width":0,"height":0,"crop":false,"quality":100,"resize":false,"format":"webp","rotate":70}
-2025-02-21 02:53:32 [INFO]: Image already exists: /Users/user/Desktop/image-hit-backend/cache/emanage.ethoswatches.com/img/uploads/banners/2025/02/0x0/ethoswatches_desktop06_02_2025_1005224306.webp
-2025-02-21 02:53:32 [INFO]: Sending file: /Users/user/Desktop/image-hit-backend/cache/emanage.ethoswatches.com/img/uploads/banners/2025/02/0x0/ethoswatches_desktop06_02_2025_1005224306.webp
-2025-02-21 02:53:33 [INFO]: Processing image: /Users/user/Desktop/image-hit-backend/cache/emanage.ethoswatches.com/img/uploads/banners/2025/02/0x0/ethoswatches_desktop06_02_2025_1005224306.jpg with {"width":0,"height":0,"crop":false,"quality":100,"resize":false,"format":"webp","rotate":70}
-2025-02-21 02:53:33 [INFO]: Image already exists: /Users/user/Desktop/image-hit-backend/cache/emanage.ethoswatches.com/img/uploads/banners/2025/02/0x0/ethoswatches_desktop06_02_2025_1005224306.webp
-2025-02-21 02:53:33 [INFO]: Sending file: /Users/user/Desktop/image-hit-backend/cache/emanage.ethoswatches.com/img/uploads/banners/2025/02/0x0/ethoswatches_desktop06_02_2025_1005224306.webp
-2025-02-21 02:53:34 [INFO]: Processing image: /Users/user/Desktop/image-hit-backend/cache/emanage.ethoswatches.com/img/uploads/banners/2025/02/0x0/ethoswatches_desktop06_02_2025_1005224306.jpg with {"width":0,"height":0,"crop":false,"quality":100,"resize":false,"format":"webp","rotate":70}
-2025-02-21 02:53:34 [INFO]: Image already exists: /Users/user/Desktop/image-hit-backend/cache/emanage.ethoswatches.com/img/uploads/banners/2025/02/0x0/ethoswatches_desktop06_02_2025_1005224306.webp
-2025-02-21 02:53:34 [INFO]: Sending file: /Users/user/Desktop/image-hit-backend/cache/emanage.ethoswatches.com/img/uploads/banners/2025/02/0x0/ethoswatches_desktop06_02_2025_1005224306.webp
-2025-02-21 02:53:37 [INFO]: Processing image: /Users/user/Desktop/image-hit-backend/cache/emanage.ethoswatches.com/img/uploads/banners/2025/02/0x0/ethoswatches_desktop06_02_2025_1005224306.jpg with {"width":0,"height":0,"crop":false,"quality":100,"resize":false,"format":"webp","rotate":700}
-2025-02-21 02:53:37 [INFO]: Image already exists: /Users/user/Desktop/image-hit-backend/cache/emanage.ethoswatches.com/img/uploads/banners/2025/02/0x0/ethoswatches_desktop06_02_2025_1005224306.webp
-2025-02-21 02:53:37 [INFO]: Sending file: /Users/user/Desktop/image-hit-backend/cache/emanage.ethoswatches.com/img/uploads/banners/2025/02/0x0/ethoswatches_desktop06_02_2025_1005224306.webp
-2025-02-21 02:53:39 [INFO]: Processing image: /Users/user/Desktop/image-hit-backend/cache/emanage.ethoswatches.com/img/uploads/banners/2025/02/0x0/ethoswatches_desktop06_02_2025_1005224306.jpg with {"width":0,"height":0,"crop":false,"quality":100,"resize":false,"format":"webp","rotate":700}
-2025-02-21 02:53:39 [INFO]: Image already exists: /Users/user/Desktop/image-hit-backend/cache/emanage.ethoswatches.com/img/uploads/banners/2025/02/0x0/ethoswatches_desktop06_02_2025_1005224306.webp
-2025-02-21 02:53:39 [INFO]: Sending file: /Users/user/Desktop/image-hit-backend/cache/emanage.ethoswatches.com/img/uploads/banners/2025/02/0x0/ethoswatches_desktop06_02_2025_1005224306.webp
-2025-02-21 02:53:41 [INFO]: Processing image: /Users/user/Desktop/image-hit-backend/cache/emanage.ethoswatches.com/img/uploads/banners/2025/02/0x0/ethoswatches_desktop06_02_2025_1005224306.jpg with {"width":0,"height":0,"crop":false,"quality":100,"resize":false,"format":"webp","rotate":7}
-2025-02-21 02:53:41 [INFO]: Image already exists: /Users/user/Desktop/image-hit-backend/cache/emanage.ethoswatches.com/img/uploads/banners/2025/02/0x0/ethoswatches_desktop06_02_2025_1005224306.webp
-2025-02-21 02:53:41 [INFO]: Sending file: /Users/user/Desktop/image-hit-backend/cache/emanage.ethoswatches.com/img/uploads/banners/2025/02/0x0/ethoswatches_desktop06_02_2025_1005224306.webp
-2025-02-21 02:53:43 [INFO]: Processing image: /Users/user/Desktop/image-hit-backend/cache/emanage.ethoswatches.com/img/uploads/banners/2025/02/0x0/ethoswatches_desktop06_02_2025_1005224306.jpg with {"width":0,"height":0,"crop":false,"quality":100,"resize":false,"format":"webp","rotate":7}
-2025-02-21 02:53:43 [INFO]: Image already exists: /Users/user/Desktop/image-hit-backend/cache/emanage.ethoswatches.com/img/uploads/banners/2025/02/0x0/ethoswatches_desktop06_02_2025_1005224306.webp
-2025-02-21 02:53:43 [INFO]: Sending file: /Users/user/Desktop/image-hit-backend/cache/emanage.ethoswatches.com/img/uploads/banners/2025/02/0x0/ethoswatches_desktop06_02_2025_1005224306.webp
-2025-02-21 02:53:55 [INFO]: Processing image: /Users/user/Desktop/image-hit-backend/cache/emanage.ethoswatches.com/img/uploads/banners/2025/02/0x0/ethoswatches_desktop06_02_2025_1005224306.jpg with {"width":0,"height":0,"crop":false,"quality":100,"resize":false,"format":"webp","rotate":7}
-2025-02-21 02:53:55 [INFO]: Image already exists: /Users/user/Desktop/image-hit-backend/cache/emanage.ethoswatches.com/img/uploads/banners/2025/02/0x0/ethoswatches_desktop06_02_2025_1005224306.webp
-2025-02-21 02:53:55 [INFO]: Sending file: /Users/user/Desktop/image-hit-backend/cache/emanage.ethoswatches.com/img/uploads/banners/2025/02/0x0/ethoswatches_desktop06_02_2025_1005224306.webp
-2025-02-21 02:53:56 [INFO]: Processing image: /Users/user/Desktop/image-hit-backend/cache/emanage.ethoswatches.com/img/uploads/banners/2025/02/0x0/ethoswatches_desktop06_02_2025_1005224306.jpg with {"width":0,"height":0,"crop":false,"quality":100,"resize":false,"format":"webp","rotate":7}
-2025-02-21 02:53:56 [INFO]: Image already exists: /Users/user/Desktop/image-hit-backend/cache/emanage.ethoswatches.com/img/uploads/banners/2025/02/0x0/ethoswatches_desktop06_02_2025_1005224306.webp
-2025-02-21 02:53:56 [INFO]: Sending file: /Users/user/Desktop/image-hit-backend/cache/emanage.ethoswatches.com/img/uploads/banners/2025/02/0x0/ethoswatches_desktop06_02_2025_1005224306.webp
-2025-02-21 02:54:26 [INFO]: Processing image: /Users/user/Desktop/image-hit-backend/cache/emanage.ethoswatches.com/img/uploads/banners/2025/02/0x0/ethoswatches_desktop06_02_2025_1005224306.jpg with {"width":0,"height":0,"crop":false,"quality":100,"resize":false,"format":"webp","rotate":0}
-2025-02-21 02:54:26 [INFO]: Image already exists: /Users/user/Desktop/image-hit-backend/cache/emanage.ethoswatches.com/img/uploads/banners/2025/02/0x0/ethoswatches_desktop06_02_2025_1005224306.webp
-2025-02-21 02:54:26 [INFO]: Sending file: /Users/user/Desktop/image-hit-backend/cache/emanage.ethoswatches.com/img/uploads/banners/2025/02/0x0/ethoswatches_desktop06_02_2025_1005224306.webp
-2025-02-21 02:54:34 [INFO]: Processing image: /Users/user/Desktop/image-hit-backend/cache/emanage.ethoswatches.com/img/uploads/banners/2025/02/0x0/ethoswatches_desktop06_02_2025_1005224306.jpg with {"width":0,"height":0,"crop":false,"quality":100,"resize":false,"format":"webp","rotate":180}
-2025-02-21 02:54:34 [INFO]: Image already exists: /Users/user/Desktop/image-hit-backend/cache/emanage.ethoswatches.com/img/uploads/banners/2025/02/0x0/ethoswatches_desktop06_02_2025_1005224306.webp
-2025-02-21 02:54:34 [INFO]: Sending file: /Users/user/Desktop/image-hit-backend/cache/emanage.ethoswatches.com/img/uploads/banners/2025/02/0x0/ethoswatches_desktop06_02_2025_1005224306.webp
-2025-02-21 02:57:46 [WARN]: Server running in stagging mode on port 5001
-2025-02-21 02:57:46 [INFO]: ✅ MongoDB Connected: localhost
-2025-02-21 02:57:49 [INFO]: Processing image: /Users/user/Desktop/image-hit-backend/cache/emanage.ethoswatches.com/img/uploads/banners/2025/02/0x0/ethoswatches_desktop06_02_2025_1005224306.jpg with {"width":0,"height":0,"crop":false,"quality":100,"resize":false,"format":"webp","rotate":180}
-2025-02-21 02:58:09 [WARN]: Server running in stagging mode on port 5001
-2025-02-21 02:58:09 [INFO]: ✅ MongoDB Connected: localhost
-2025-02-21 02:58:11 [INFO]: Processing image: /Users/user/Desktop/image-hit-backend/cache/emanage.ethoswatches.com/img/uploads/banners/2025/02/0x0/ethoswatches_desktop06_02_2025_1005224306.jpg with {"width":0,"height":0,"crop":false,"quality":100,"resize":false,"format":"webp","rotate":180}
-2025-02-21 02:58:11 [INFO]: Applying format: webp and quality: 100
-2025-02-21 02:58:11 [INFO]: Image saved: /Users/user/Desktop/image-hit-backend/cache/emanage.ethoswatches.com/img/uploads/banners/2025/02/0x0/ethoswatches_desktop06_02_2025_1005224306_rotated180.webp
-2025-02-21 02:58:11 [INFO]: Sending file: /Users/user/Desktop/image-hit-backend/cache/emanage.ethoswatches.com/img/uploads/banners/2025/02/0x0/ethoswatches_desktop06_02_2025_1005224306_rotated180.webp
-2025-02-21 02:58:17 [INFO]: Processing image: /Users/user/Desktop/image-hit-backend/cache/emanage.ethoswatches.com/img/uploads/banners/2025/02/0x0/ethoswatches_desktop06_02_2025_1005224306.jpg with {"width":0,"height":0,"crop":false,"quality":100,"resize":false,"format":"webp","rotate":180}
-2025-02-21 02:58:17 [INFO]: Image already exists: /Users/user/Desktop/image-hit-backend/cache/emanage.ethoswatches.com/img/uploads/banners/2025/02/0x0/ethoswatches_desktop06_02_2025_1005224306_rotated180.webp
-2025-02-21 02:58:17 [INFO]: Sending file: /Users/user/Desktop/image-hit-backend/cache/emanage.ethoswatches.com/img/uploads/banners/2025/02/0x0/ethoswatches_desktop06_02_2025_1005224306_rotated180.webp
+2025-02-24 14:36:10 [ERROR]: Error creating permission E11000 duplicate key error collection: imagehit1.permissions index: name_1 dup key: { name: "read" }
+2025-02-24 14:38:17 [WARN]: Server running in stagging mode on port 5001
+2025-02-24 14:38:17 [INFO]: MongoDB Connected: localhost
+2025-02-24 14:38:20 [WARN]: Server running in stagging mode on port 5001
+2025-02-24 14:38:20 [INFO]: MongoDB Connected: localhost
+2025-02-24 14:38:26 [WARN]: Server running in stagging mode on port 5001
+2025-02-24 14:38:26 [INFO]: MongoDB Connected: localhost
+2025-02-24 14:40:12 [INFO]: User registered successfully with email: gurjotsaini53@gmail.com
+2025-02-24 14:40:38 [WARN]: Server running in stagging mode on port 5001
+2025-02-24 14:40:38 [INFO]: MongoDB Connected: localhost
+2025-02-24 14:40:46 [WARN]: Server running in stagging mode on port 5001
+2025-02-24 14:40:46 [INFO]: MongoDB Connected: localhost
+2025-02-24 14:41:00 [WARN]: Server running in stagging mode on port 5001
+2025-02-24 14:41:00 [INFO]: MongoDB Connected: localhost
+2025-02-24 14:41:19 [ERROR]: Registration failed: roleId is not defined
+2025-02-24 14:41:37 [WARN]: Server running in stagging mode on port 5001
+2025-02-24 14:41:37 [INFO]: MongoDB Connected: localhost
+2025-02-24 14:41:39 [ERROR]: Registration failed: ReferenceError: roleId is not defined
+2025-02-24 14:42:03 [WARN]: Server running in stagging mode on port 5001
+2025-02-24 14:42:03 [INFO]: MongoDB Connected: localhost
+2025-02-24 14:42:06 [WARN]: Server running in stagging mode on port 5001
+2025-02-24 14:42:06 [INFO]: MongoDB Connected: localhost
+2025-02-24 14:42:07 [WARN]: Server running in stagging mode on port 5001
+2025-02-24 14:42:07 [INFO]: MongoDB Connected: localhost
+2025-02-24 14:42:16 [WARN]: Server running in stagging mode on port 5001
+2025-02-24 14:42:16 [INFO]: MongoDB Connected: localhost
+2025-02-24 14:42:36 [WARN]: Server running in stagging mode on port 5001
+2025-02-24 14:42:36 [INFO]: MongoDB Connected: localhost
+2025-02-24 14:42:39 [WARN]: Server running in stagging mode on port 5001
+2025-02-24 14:42:39 [INFO]: MongoDB Connected: localhost
+2025-02-24 14:42:41 [ERROR]: Registration failed: ReferenceError: Role is not defined
+2025-02-24 14:43:13 [WARN]: Server running in stagging mode on port 5001
+2025-02-24 14:43:13 [INFO]: MongoDB Connected: localhost
+2025-02-24 14:43:20 [WARN]: Server running in stagging mode on port 5001
+2025-02-24 14:43:20 [INFO]: MongoDB Connected: localhost
+2025-02-24 14:43:31 [WARN]: Server running in stagging mode on port 5001
+2025-02-24 14:43:31 [INFO]: MongoDB Connected: localhost
+2025-02-24 14:43:47 [WARN]: Server running in stagging mode on port 5001
+2025-02-24 14:43:48 [INFO]: MongoDB Connected: localhost
+2025-02-24 14:44:05 [WARN]: Server running in stagging mode on port 5001
+2025-02-24 14:44:05 [INFO]: MongoDB Connected: localhost
+2025-02-24 14:44:12 [WARN]: Server running in stagging mode on port 5001
+2025-02-24 14:44:12 [INFO]: MongoDB Connected: localhost
+2025-02-24 14:44:33 [WARN]: Server running in stagging mode on port 5001
+2025-02-24 14:44:33 [INFO]: MongoDB Connected: localhost
+2025-02-24 14:44:40 [WARN]: Server running in stagging mode on port 5001
+2025-02-24 14:44:40 [INFO]: MongoDB Connected: localhost
+2025-02-24 14:44:43 [ERROR]: Registration failed: ReferenceError: Role is not defined
+2025-02-24 14:44:59 [WARN]: Server running in stagging mode on port 5001
+2025-02-24 14:44:59 [INFO]: MongoDB Connected: localhost
+2025-02-24 14:45:00 [INFO]: User registered successfully with email: gurjotsaini53@gmail.com
+2025-02-24 14:45:28 [WARN]: Server running in stagging mode on port 5001
+2025-02-24 14:45:28 [INFO]: MongoDB Connected: localhost
+2025-02-24 14:45:29 [WARN]: Server running in stagging mode on port 5001
+2025-02-24 14:45:29 [INFO]: MongoDB Connected: localhost
+2025-02-24 14:45:38 [INFO]: User registered successfully with email: gurjotsaini531@gmail.com
+2025-02-24 14:45:50 [WARN]: Server running in stagging mode on port 5001
+2025-02-24 14:45:50 [INFO]: MongoDB Connected: localhost
+2025-02-24 14:45:56 [WARN]: Server running in stagging mode on port 5001
+2025-02-24 14:45:56 [INFO]: MongoDB Connected: localhost
+2025-02-24 14:45:57 [ERROR]: User already exists with email: gurjotsaini531@gmail.com
+2025-02-24 14:46:02 [INFO]: User registered successfully with email: gurjotsaini5311@gmail.com
+2025-02-24 14:46:02 [ERROR]: Registration failed: ReferenceError: roleRes is not defined
+2025-02-24 14:46:20 [WARN]: Server running in stagging mode on port 5001
+2025-02-24 14:46:20 [INFO]: MongoDB Connected: localhost
+2025-02-24 14:46:22 [WARN]: Server running in stagging mode on port 5001
+2025-02-24 14:46:22 [INFO]: MongoDB Connected: localhost
+2025-02-24 14:46:23 [WARN]: Server running in stagging mode on port 5001
+2025-02-24 14:46:23 [INFO]: MongoDB Connected: localhost
+2025-02-24 14:46:25 [ERROR]: User already exists with email: gurjotsaini5311@gmail.com
+2025-02-24 14:46:28 [ERROR]: User already exists with email: gurjotsaini531@gmail.com
+2025-02-24 14:50:01 [ERROR]: User already exists with email: gurjotsaini531@gmail.com
+2025-02-24 14:52:52 [WARN]: Server running in stagging mode on port 5001
+2025-02-24 14:52:52 [INFO]: MongoDB Connected: localhost

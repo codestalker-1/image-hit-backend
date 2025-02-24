@@ -8,6 +8,8 @@ const UserSchema = new mongoose.Schema({
   email: { type: String, required: true, unique: true },
   password: { type: String, required: true },
   lastLoginAt: { type: Date },
+  isAdmin: { type: Boolean, default: false },
+  role: { type: mongoose.Schema.Types.ObjectId, ref: "Role" },
 });
 
 UserSchema.add(AuditableSchema);

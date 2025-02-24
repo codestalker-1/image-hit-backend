@@ -1,23 +1,40 @@
-import jwt from "jsonwebtoken";
-import { config } from "dotenv";
+import User from "../models/User.js";
+import Role from "../models/Role.js";
 
-config();
-
-module.exports = (req, res, next) => {
-  const token = req.header("Authorization");
-  if (!token) return res.status(401).json({ message: "Access Denied" });
-
+/**
+ * Middleware to check if the user is an admin
+ */
+export const verifyAdmin = async (req, res, next) => {
   try {
-    const verified = jwt.verify(
-      token.replace("Bearer ", ""),
-      config.JWT_SECRET
-    );
-    req.user = verified;
+    const user = await User.findById(req.user.id);
+    if (!user || !user.isAdmin) {
+      return res.status(403).json({ message: "Access denied. Admins only." });
+    }
+    req.user = user;
     next();
   } catch (error) {
-    res.status(400).json({ message: "Invalid token" });
+    res.status(500).json({ message: "Internal Server Error" });
   }
 };
 
+/**
+ * Middleware to check if the user has a specific permission
+ */
+export const authorizePermission = (requiredPermission) => {
+  return async (req, res, next) => {
+    try {
+      const user = await User.findById(req.user.id).populate("roles");
+      if (!user) return res.status(401).json({ message: "User not found" });
 
+      const permissions = user.roles.flatMap((role) => role.permissions);
+      if (!permissions.includes(requiredPermission)) {
+        return res.status(403).json({ message: "Access denied" });
+      }
 
+      req.user = user;
+      next();
+    } catch (error) {
+      res.status(500).json({ message: "Internal Server Error" });
+    }
+  };
+};

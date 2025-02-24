@@ -55,7 +55,6 @@ export const getImage = async (req, res) => {
     getRequestDetails(req);
 
   const tranformationRequestObject = parseImageParams(tranformationRequest);
-  console.log(tranformationRequestObject);
 
   let {
     downloadUrl,
