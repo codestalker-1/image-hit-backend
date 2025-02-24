@@ -54,7 +54,7 @@ export async function downloadFileSync(downloadUrl, savePath) {
     await streamToFile(response.data, savePath);
     logger.info(`Download completed: ${savePath}`);
 
-    return savePath; // ✅ Return the file path
+    return savePath; // Return the file path
   } catch (error) {
     console.error(`Download error: ${error.message}`);
     throw error;
