@@ -1,5 +1,4 @@
 import User from "../models/User.js";
-import Role from "../models/Role.js";
 
 /**
  * Middleware to check if the user is an admin
@@ -23,10 +22,10 @@ export const verifyAdmin = async (req, res, next) => {
 export const authorizePermission = (requiredPermission) => {
   return async (req, res, next) => {
     try {
-      const user = await User.findById(req.user.id).populate("roles");
+      const user = await User.findById(req.user.id).populate("role");
       if (!user) return res.status(401).json({ message: "User not found" });
 
-      const permissions = user.roles.flatMap((role) => role.permissions);
+      const permissions = user.role.flatMap((role) => role.permissions);
       if (!permissions.includes(requiredPermission)) {
         return res.status(403).json({ message: "Access denied" });
       }

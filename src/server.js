@@ -9,6 +9,7 @@ import imageRoutes from "./routes/imageRoutes.js";
 import adminRoutes from "./routes/adminRoutes.js";
 import roleRoutes from "./routes/rolesRoutes.js";
 import permissionRoutes from "./routes/permissionRoutes.js";
+import allowedUrlRoutes from "./routes/allowedUrlRoutes.js";
 const environment = process.env.ENVIRONMENT || "development";
 const PORT = config.PORT;
 
@@ -21,6 +22,7 @@ app.use("/api/v1/auth", authRoutes);
 app.use("/api/v1/role", roleRoutes);
 app.use("/api/v1/permission", permissionRoutes);
 app.use("/api/v1/admin", adminRoutes);
+app.use("/api/v1/url", allowedUrlRoutes);
 app.use("/health", healthRoute);
 app.use("/*", imageRoutes);
 
