@@ -1,0 +1,575 @@
+2025-04-02 22:52:07 [WARN]: Server running in development mode on port 3000
+2025-04-02 22:52:07 [INFO]: MongoDB Connected: localhost
+2025-04-02 22:52:16 [INFO]: Processing image request
+2025-04-02 22:52:16 [INFO]: Directory created or already exists: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/the-watch-guide/wp-content/uploads/2025/02/0x0
+2025-04-02 22:52:16 [INFO]: Starting download: https://www.ethoswatches.com/the-watch-guide/wp-content/uploads/2025/02/top-hautlence-watches-subfeatured-scaled.jpg
+2025-04-02 22:52:17 [INFO]: Download completed: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/the-watch-guide/wp-content/uploads/2025/02/0x0/top-hautlence-watches-subfeatured-scaled.jpg
+2025-04-02 22:52:17 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/the-watch-guide/wp-content/uploads/2025/02/0x0/top-hautlence-watches-subfeatured-scaled.jpg
+2025-04-02 22:52:56 [INFO]: Processing image request
+2025-04-02 22:52:56 [INFO]: Processing image: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/the-watch-guide/wp-content/uploads/2025/02/0x0/top-hautlence-watches-subfeatured-scaled.jpg
+2025-04-02 22:52:56 [ERROR]: Image processing failed: generateOutputPath is not defined
+2025-04-02 22:52:56 [ERROR]: Error processing image request: generateOutputPath is not defined
+2025-04-02 22:54:10 [WARN]: Server running in development mode on port 3000
+2025-04-02 22:54:10 [INFO]: MongoDB Connected: localhost
+2025-04-02 22:54:11 [WARN]: Server running in development mode on port 3000
+2025-04-02 22:54:11 [INFO]: MongoDB Connected: localhost
+2025-04-02 22:54:14 [INFO]: Processing image request
+2025-04-02 22:54:14 [INFO]: Directory created or already exists: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/the-watch-guide/wp-content/uploads/2025/02/0x0
+2025-04-02 22:54:14 [INFO]: Directory created or already exists: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/the-watch-guide/wp-content/uploads/2025/02/0x0/100x100
+2025-04-02 22:54:14 [INFO]: Processing image: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/the-watch-guide/wp-content/uploads/2025/02/0x0/top-hautlence-watches-subfeatured-scaled.jpg
+2025-04-02 22:54:14 [ERROR]: Image processing failed: generateOutputPath is not defined
+2025-04-02 22:54:14 [ERROR]: Error in image processing: generateOutputPath is not defined
+2025-04-02 22:54:14 [ERROR]: Error processing image request: generateOutputPath is not defined
+2025-04-02 22:55:16 [WARN]: Server running in development mode on port 3000
+2025-04-02 22:55:16 [INFO]: MongoDB Connected: localhost
+2025-04-02 22:55:20 [INFO]: Processing image: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/the-watch-guide/wp-content/uploads/2025/02/0x0/top-hautlence-watches-subfeatured-scaled.jpg with {"width":100,"height":100,"crop":false,"quality":80,"resize":true,"format":"","rotate":0}
+2025-04-02 22:56:46 [WARN]: Server running in development mode on port 3000
+2025-04-02 22:56:46 [INFO]: MongoDB Connected: localhost
+2025-04-02 22:56:47 [WARN]: Server running in development mode on port 3000
+2025-04-02 22:56:47 [INFO]: MongoDB Connected: localhost
+2025-04-02 22:56:48 [WARN]: Server running in development mode on port 3000
+2025-04-02 22:56:48 [INFO]: MongoDB Connected: localhost
+2025-04-02 22:56:54 [INFO]: Processing image: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/the-watch-guide/wp-content/uploads/2025/02/0x0/top-hautlence-watches-subfeatured-scaled.jpg with {"width":100,"height":100,"crop":false,"quality":80,"resize":true,"format":"","rotate":0}
+2025-04-02 22:56:54 [INFO]: Applying format:  and quality: 80
+2025-04-02 22:56:54 [INFO]: Image saved: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/the-watch-guide/wp-content/uploads/2025/02/100x100/top-hautlence-watches-subfeatured-scaled.jpg
+2025-04-02 22:56:54 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/the-watch-guide/wp-content/uploads/2025/02/100x100/top-hautlence-watches-subfeatured-scaled.jpg
+2025-04-02 22:57:02 [INFO]: Processing image: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/the-watch-guide/wp-content/uploads/2025/02/0x0/top-hautlence-watches-subfeatured-scaled.jpg with {"width":10,"height":10,"crop":false,"quality":80,"resize":true,"format":"","rotate":0}
+2025-04-02 22:57:02 [INFO]: Applying format:  and quality: 80
+2025-04-02 22:57:02 [INFO]: Image saved: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/the-watch-guide/wp-content/uploads/2025/02/10x10/top-hautlence-watches-subfeatured-scaled.jpg
+2025-04-02 22:57:02 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/the-watch-guide/wp-content/uploads/2025/02/10x10/top-hautlence-watches-subfeatured-scaled.jpg
+2025-04-02 22:57:06 [INFO]: Processing image: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/the-watch-guide/wp-content/uploads/2025/02/0x0/top-hautlence-watches-subfeatured-scaled.jpg with {"width":10,"height":100,"crop":false,"quality":80,"resize":true,"format":"","rotate":0}
+2025-04-02 22:57:06 [INFO]: Applying format:  and quality: 80
+2025-04-02 22:57:06 [INFO]: Image saved: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/the-watch-guide/wp-content/uploads/2025/02/10x100/top-hautlence-watches-subfeatured-scaled.jpg
+2025-04-02 22:57:06 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/the-watch-guide/wp-content/uploads/2025/02/10x100/top-hautlence-watches-subfeatured-scaled.jpg
+2025-04-02 23:14:57 [WARN]: Server running in development mode on port 3000
+2025-04-02 23:14:57 [INFO]: MongoDB Connected: localhost
+2025-04-02 23:14:58 [WARN]: Server running in development mode on port 3000
+2025-04-02 23:14:58 [INFO]: MongoDB Connected: localhost
+2025-04-02 23:15:01 [WARN]: Server running in development mode on port 3000
+2025-04-02 23:15:01 [INFO]: MongoDB Connected: localhost
+2025-04-02 23:16:37 [WARN]: Server running in development mode on port 3000
+2025-04-02 23:16:37 [INFO]: MongoDB Connected: localhost
+2025-04-02 23:17:29 [WARN]: Server running in development mode on port 3000
+2025-04-02 23:17:29 [INFO]: MongoDB Connected: localhost
+2025-04-02 23:18:13 [WARN]: Server running in development mode on port 3000
+2025-04-02 23:18:13 [INFO]: MongoDB Connected: localhost
+2025-04-02 23:20:03 [WARN]: Server running in development mode on port 3000
+2025-04-02 23:20:03 [INFO]: MongoDB Connected: localhost
+2025-04-02 23:20:04 [INFO]: Directory created or already exists: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/the-watch-guide/wp-content/uploads/2025/02/0x0/
+2025-04-02 23:20:04 [INFO]: Starting download: https://www.ethoswatches.com/the-watch-guide/wp-content/uploads/2025/02/top-hautlence-watches-subfeatured-scaled.jpg
+2025-04-02 23:20:05 [INFO]: Download completed: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/the-watch-guide/wp-content/uploads/2025/02/0x0/top-hautlence-watches-subfeatured-scaled.jpg
+2025-04-02 23:20:05 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/the-watch-guide/wp-content/uploads/2025/02/0x0/top-hautlence-watches-subfeatured-scaled.jpg
+2025-04-02 23:20:10 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/the-watch-guide/wp-content/uploads/2025/02/0x0/top-hautlence-watches-subfeatured-scaled.jpg
+2025-04-02 23:20:10 [INFO]: Processing image: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/the-watch-guide/wp-content/uploads/2025/02/0x0/top-hautlence-watches-subfeatured-scaled.jpg with {"width":0,"height":0,"crop":false,"quality":80,"resize":false,"format":"","rotate":0}
+2025-04-02 23:20:10 [INFO]: Image already exists: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/the-watch-guide/wp-content/uploads/2025/02/0x0/top-hautlence-watches-subfeatured-scaled.jpg
+2025-04-02 23:20:10 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/the-watch-guide/wp-content/uploads/2025/02/0x0/top-hautlence-watches-subfeatured-scaled.jpg
+2025-04-02 23:20:14 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/the-watch-guide/wp-content/uploads/2025/02/0x0/top-hautlence-watches-subfeatured-scaled.jpg
+2025-04-02 23:20:14 [INFO]: Processing image: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/the-watch-guide/wp-content/uploads/2025/02/0x0/top-hautlence-watches-subfeatured-scaled.jpg with {"width":0,"height":0,"crop":false,"quality":80,"resize":false,"format":"","rotate":0}
+2025-04-02 23:20:14 [INFO]: Image already exists: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/the-watch-guide/wp-content/uploads/2025/02/0x0/top-hautlence-watches-subfeatured-scaled.jpg
+2025-04-02 23:20:14 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/the-watch-guide/wp-content/uploads/2025/02/0x0/top-hautlence-watches-subfeatured-scaled.jpg
+2025-04-02 23:21:28 [WARN]: Server running in development mode on port 3000
+2025-04-02 23:21:28 [INFO]: MongoDB Connected: localhost
+2025-04-02 23:21:30 [INFO]: Directory created or already exists: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/the-watch-guide/wp-content/uploads/2025/02/0x0/
+2025-04-02 23:21:30 [INFO]: Starting download: https://www.ethoswatches.com/the-watch-guide/wp-content/uploads/2025/02/top-hautlence-watches-subfeatured-scaled.jpg
+2025-04-02 23:21:31 [INFO]: Download completed: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/the-watch-guide/wp-content/uploads/2025/02/0x0/top-hautlence-watches-subfeatured-scaled.jpg
+2025-04-02 23:21:31 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/the-watch-guide/wp-content/uploads/2025/02/0x0/top-hautlence-watches-subfeatured-scaled.jpg
+2025-04-02 23:21:33 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/the-watch-guide/wp-content/uploads/2025/02/0x0/top-hautlence-watches-subfeatured-scaled.jpg
+2025-04-02 23:21:33 [INFO]: Processing image: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/the-watch-guide/wp-content/uploads/2025/02/0x0/top-hautlence-watches-subfeatured-scaled.jpg with {"width":0,"height":0,"crop":false,"quality":80,"resize":false,"format":"","rotate":0}
+2025-04-02 23:21:33 [INFO]: Image already exists: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/the-watch-guide/wp-content/uploads/2025/02/0x0/top-hautlence-watches-subfeatured-scaled.jpg
+2025-04-02 23:21:33 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/the-watch-guide/wp-content/uploads/2025/02/0x0/top-hautlence-watches-subfeatured-scaled.jpg
+2025-04-02 23:21:52 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/the-watch-guide/wp-content/uploads/2025/02/0x0/top-hautlence-watches-subfeatured-scaled.jpg
+2025-04-02 23:21:52 [INFO]: Processing image: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/the-watch-guide/wp-content/uploads/2025/02/0x0/top-hautlence-watches-subfeatured-scaled.jpg with {"width":0,"height":0,"crop":false,"quality":80,"resize":false,"format":"","rotate":0}
+2025-04-02 23:21:52 [INFO]: Image already exists: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/the-watch-guide/wp-content/uploads/2025/02/0x0/top-hautlence-watches-subfeatured-scaled.jpg
+2025-04-02 23:21:52 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/the-watch-guide/wp-content/uploads/2025/02/0x0/top-hautlence-watches-subfeatured-scaled.jpg
+2025-04-02 23:23:12 [WARN]: Server running in development mode on port 3000
+2025-04-02 23:23:12 [INFO]: MongoDB Connected: localhost
+2025-04-02 23:23:13 [WARN]: Server running in development mode on port 3000
+2025-04-02 23:23:13 [INFO]: MongoDB Connected: localhost
+2025-04-02 23:23:16 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/the-watch-guide/wp-content/uploads/2025/02/0x0/top-hautlence-watches-subfeatured-scaled.jpg
+2025-04-02 23:23:17 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/the-watch-guide/wp-content/uploads/2025/02/0x0/top-hautlence-watches-subfeatured-scaled.jpg
+2025-04-02 23:23:18 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/the-watch-guide/wp-content/uploads/2025/02/0x0/top-hautlence-watches-subfeatured-scaled.jpg
+2025-04-02 23:23:19 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/the-watch-guide/wp-content/uploads/2025/02/0x0/top-hautlence-watches-subfeatured-scaled.jpg
+2025-04-02 23:23:22 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/the-watch-guide/wp-content/uploads/2025/02/0x0/top-hautlence-watches-subfeatured-scaled.jpg
+2025-04-02 23:23:22 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/the-watch-guide/wp-content/uploads/2025/02/0x0/top-hautlence-watches-subfeatured-scaled.jpg
+2025-04-02 23:23:23 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/the-watch-guide/wp-content/uploads/2025/02/0x0/top-hautlence-watches-subfeatured-scaled.jpg
+2025-04-02 23:23:24 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/the-watch-guide/wp-content/uploads/2025/02/0x0/top-hautlence-watches-subfeatured-scaled.jpg
+2025-04-02 23:24:03 [INFO]: Directory created or already exists: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/rolex/pub/media/newtheme/banner/desktop/0x0
+2025-04-02 23:24:03 [INFO]: Starting download: https://www.ethoswatches.com/rolex/pub/media/newtheme/banner/desktop/Rolex-home-new-desktop.jpg
+2025-04-02 23:24:04 [INFO]: Download completed: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/rolex/pub/media/newtheme/banner/desktop/0x0/Rolex-home-new-desktop.jpg
+2025-04-02 23:24:04 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/rolex/pub/media/newtheme/banner/desktop/0x0/Rolex-home-new-desktop.jpg
+2025-04-02 23:24:39 [INFO]: Processing image: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/rolex/pub/media/newtheme/banner/desktop/0x0/Rolex-home-new-desktop.jpg with {"width":100,"height":100,"crop":false,"quality":80,"resize":true,"format":"","rotate":0}
+2025-04-02 23:24:39 [ERROR]: Error processing image: Expected valid fit for fit but received true of type boolean
+2025-04-02 23:26:07 [WARN]: Server running in development mode on port 3000
+2025-04-02 23:26:07 [INFO]: MongoDB Connected: localhost
+2025-04-02 23:26:09 [INFO]: Processing image: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/rolex/pub/media/newtheme/banner/desktop/0x0/Rolex-home-new-desktop.jpg with {"width":100,"height":100,"crop":false,"quality":80,"resize":true,"format":"","rotate":0,"fit":"cover"}
+2025-04-02 23:26:09 [INFO]: Applying format:  and quality: 80
+2025-04-02 23:26:09 [INFO]: Image saved: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/rolex/pub/media/newtheme/banner/desktop/100x100/Rolex-home-new-desktop.jpg
+2025-04-02 23:26:09 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/rolex/pub/media/newtheme/banner/desktop/100x100/Rolex-home-new-desktop.jpg
+2025-04-02 23:26:21 [INFO]: Processing image: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/rolex/pub/media/newtheme/banner/desktop/0x0/Rolex-home-new-desktop.jpg with {"width":100,"height":100,"crop":false,"quality":80,"resize":true,"format":"","rotate":0,"fit":"cover"}
+2025-04-02 23:26:21 [INFO]: Image already exists: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/rolex/pub/media/newtheme/banner/desktop/100x100/Rolex-home-new-desktop.jpg
+2025-04-02 23:26:21 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/rolex/pub/media/newtheme/banner/desktop/100x100/Rolex-home-new-desktop.jpg
+2025-04-02 23:26:22 [INFO]: Processing image: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/rolex/pub/media/newtheme/banner/desktop/0x0/Rolex-home-new-desktop.jpg with {"width":100,"height":100,"crop":false,"quality":80,"resize":true,"format":"","rotate":0,"fit":"cover"}
+2025-04-02 23:26:22 [INFO]: Image already exists: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/rolex/pub/media/newtheme/banner/desktop/100x100/Rolex-home-new-desktop.jpg
+2025-04-02 23:26:22 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/rolex/pub/media/newtheme/banner/desktop/100x100/Rolex-home-new-desktop.jpg
+2025-04-02 23:26:27 [INFO]: Processing image: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/rolex/pub/media/newtheme/banner/desktop/0x0/Rolex-home-new-desktop.jpg with {"width":100,"height":100,"crop":false,"quality":80,"resize":true,"format":"","rotate":0,"fit":"cover"}
+2025-04-02 23:26:27 [INFO]: Image already exists: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/rolex/pub/media/newtheme/banner/desktop/100x100/Rolex-home-new-desktop.jpg
+2025-04-02 23:26:27 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/rolex/pub/media/newtheme/banner/desktop/100x100/Rolex-home-new-desktop.jpg
+2025-04-02 23:32:33 [INFO]: Directory created or already exists: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0
+2025-04-02 23:32:33 [INFO]: Starting download: https://www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-02 23:32:36 [INFO]: Download completed: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-02 23:32:36 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-02 23:33:03 [INFO]: Processing image: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg with {"width":100,"height":100,"crop":false,"quality":80,"resize":true,"format":"","rotate":0,"fit":"cover"}
+2025-04-02 23:33:03 [INFO]: Applying format:  and quality: 80
+2025-04-02 23:33:03 [INFO]: Image saved: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/100x100/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-02 23:33:03 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/100x100/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-02 23:33:27 [INFO]: Processing image: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg with {"width":100,"height":100,"crop":false,"quality":50,"resize":true,"format":"","rotate":0,"fit":"cover"}
+2025-04-02 23:33:27 [INFO]: Image already exists: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/100x100/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-02 23:33:27 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/100x100/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-02 23:33:31 [INFO]: Processing image: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg with {"width":100,"height":100,"crop":false,"quality":50,"resize":true,"format":"","rotate":0,"fit":"cover"}
+2025-04-02 23:33:31 [INFO]: Image already exists: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/100x100/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-02 23:33:31 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/100x100/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-02 23:33:33 [INFO]: Processing image: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg with {"width":100,"height":100,"crop":false,"quality":50,"resize":true,"format":"","rotate":0,"fit":"cover"}
+2025-04-02 23:33:33 [INFO]: Image already exists: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/100x100/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-02 23:33:33 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/100x100/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-02 23:34:36 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-02 23:34:41 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-02 23:34:44 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-02 23:34:51 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-02 23:34:55 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-02 23:34:59 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-02 23:36:13 [WARN]: Server running in development mode on port 3000
+2025-04-02 23:36:14 [INFO]: MongoDB Connected: localhost
+2025-04-02 23:36:15 [WARN]: Server running in development mode on port 3000
+2025-04-02 23:36:15 [INFO]: MongoDB Connected: localhost
+2025-04-02 23:36:16 [WARN]: Server running in development mode on port 3000
+2025-04-02 23:36:16 [INFO]: MongoDB Connected: localhost
+2025-04-02 23:36:22 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-02 23:36:24 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-02 23:36:30 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-02 23:36:37 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-02 23:38:54 [WARN]: Server running in development mode on port 3000
+2025-04-02 23:38:54 [INFO]: MongoDB Connected: localhost
+2025-04-02 23:38:57 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-02 23:39:02 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-02 23:39:13 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-02 23:39:36 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-02 23:40:29 [WARN]: Server running in development mode on port 3000
+2025-04-02 23:40:29 [INFO]: MongoDB Connected: localhost
+2025-04-02 23:40:46 [INFO]: Sending original file
+2025-04-02 23:40:46 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-02 23:40:53 [INFO]: Sending original file
+2025-04-02 23:40:53 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-02 23:41:14 [WARN]: Server running in development mode on port 3000
+2025-04-02 23:41:14 [INFO]: MongoDB Connected: localhost
+2025-04-02 23:41:28 [WARN]: Server running in development mode on port 3000
+2025-04-02 23:41:28 [INFO]: MongoDB Connected: localhost
+2025-04-02 23:41:31 [INFO]: Sending original file
+2025-04-02 23:41:31 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-02 23:41:47 [WARN]: Server running in development mode on port 3000
+2025-04-02 23:41:47 [INFO]: MongoDB Connected: localhost
+2025-04-02 23:41:50 [INFO]: Sending original file
+2025-04-02 23:41:50 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-02 23:42:19 [INFO]: Sending original file
+2025-04-02 23:42:19 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-02 23:44:23 [WARN]: Server running in development mode on port 3000
+2025-04-02 23:44:23 [INFO]: MongoDB Connected: localhost
+2025-04-02 23:44:25 [WARN]: Server running in development mode on port 3000
+2025-04-02 23:44:25 [INFO]: MongoDB Connected: localhost
+2025-04-02 23:44:26 [WARN]: Server running in development mode on port 3000
+2025-04-02 23:44:26 [INFO]: MongoDB Connected: localhost
+2025-04-02 23:44:29 [INFO]: Sending original file
+2025-04-02 23:44:29 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-02 23:44:37 [INFO]: Sending original file
+2025-04-02 23:44:37 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-02 23:45:05 [WARN]: Server running in development mode on port 3000
+2025-04-02 23:45:05 [INFO]: MongoDB Connected: localhost
+2025-04-02 23:45:07 [INFO]: Sending original file
+2025-04-02 23:45:07 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-02 23:45:19 [WARN]: Server running in development mode on port 3000
+2025-04-02 23:45:19 [INFO]: MongoDB Connected: localhost
+2025-04-02 23:45:26 [WARN]: Server running in development mode on port 3000
+2025-04-02 23:45:26 [INFO]: MongoDB Connected: localhost
+2025-04-02 23:45:33 [INFO]: Sending original file
+2025-04-02 23:45:33 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-02 23:45:38 [WARN]: Server running in development mode on port 3000
+2025-04-02 23:45:39 [INFO]: MongoDB Connected: localhost
+2025-04-02 23:45:39 [INFO]: Sending original file
+2025-04-02 23:45:39 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-02 23:45:58 [INFO]: Using cached image: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/100x100/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-02 23:45:58 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/100x100/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-02 23:46:04 [INFO]: Using cached image: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/100x100/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-02 23:46:04 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/100x100/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-02 23:46:05 [INFO]: Using cached image: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/100x100/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-02 23:46:05 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/100x100/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-02 23:46:18 [INFO]: Applying format: jpg and quality: 40
+2025-04-02 23:46:18 [ERROR]: Image processing failed: image[format] is not a function
+2025-04-02 23:46:18 [ERROR]: Error processing image: Failed to process image: image[format] is not a function
+2025-04-02 23:46:53 [WARN]: Server running in development mode on port 3000
+2025-04-02 23:46:53 [INFO]: MongoDB Connected: localhost
+2025-04-02 23:46:54 [WARN]: Server running in development mode on port 3000
+2025-04-02 23:46:54 [INFO]: MongoDB Connected: localhost
+2025-04-02 23:46:57 [INFO]: Applying format:  and quality: 40
+2025-04-02 23:46:57 [INFO]: Image processed successfully: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_0x0.jpg
+2025-04-02 23:46:57 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_0x0.jpg
+2025-04-02 23:47:02 [INFO]: Using cached image: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_0x0.jpg
+2025-04-02 23:47:02 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_0x0.jpg
+2025-04-02 23:47:13 [INFO]: Using cached image: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_0x0.jpg
+2025-04-02 23:47:13 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_0x0.jpg
+2025-04-02 23:47:20 [INFO]: Using cached image: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_0x0.jpg
+2025-04-02 23:47:20 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_0x0.jpg
+2025-04-02 23:47:23 [INFO]: Sending original file
+2025-04-02 23:47:23 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-02 23:48:40 [WARN]: Server running in development mode on port 3000
+2025-04-02 23:48:40 [INFO]: MongoDB Connected: localhost
+2025-04-02 23:48:42 [WARN]: Server running in development mode on port 3000
+2025-04-02 23:48:42 [INFO]: MongoDB Connected: localhost
+2025-04-02 23:48:47 [INFO]: Applying format:  and quality: 100
+2025-04-02 23:48:47 [INFO]: Image processed successfully: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_0x0_q100.jpg
+2025-04-02 23:48:47 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_0x0_q100.jpg
+2025-04-02 23:48:52 [INFO]: Using cached image: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_0x0_q100.jpg
+2025-04-02 23:48:52 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_0x0_q100.jpg
+2025-04-02 23:48:56 [INFO]: Applying format:  and quality: 40
+2025-04-02 23:48:56 [INFO]: Image processed successfully: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_0x0_q40.jpg
+2025-04-02 23:48:56 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_0x0_q40.jpg
+2025-04-02 23:48:59 [INFO]: Using cached image: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_0x0_q40.jpg
+2025-04-02 23:48:59 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_0x0_q40.jpg
+2025-04-02 23:49:38 [INFO]: Applying format: png and quality: 40
+2025-04-02 23:49:39 [INFO]: Image processed successfully: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_0x0_q40.png
+2025-04-02 23:49:39 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_0x0_q40.png
+2025-04-02 23:52:58 [INFO]: Directory created or already exists: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0
+2025-04-02 23:52:58 [INFO]: Starting download: https://www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-02 23:53:01 [INFO]: Download completed: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-02 23:53:01 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-02 23:53:30 [INFO]: Applying format:  and quality: 40
+2025-04-02 23:53:30 [INFO]: Image processed successfully: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_0x0_q40.jpg
+2025-04-02 23:53:30 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_0x0_q40.jpg
+2025-04-02 23:53:54 [INFO]: Using cached image: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_0x0_q40.jpg
+2025-04-02 23:53:54 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_0x0_q40.jpg
+2025-04-02 23:53:55 [INFO]: Using cached image: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_0x0_q40.jpg
+2025-04-02 23:53:55 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_0x0_q40.jpg
+2025-04-02 23:56:14 [WARN]: Server running in development mode on port 3000
+2025-04-02 23:56:14 [INFO]: MongoDB Connected: localhost
+2025-04-02 23:56:16 [WARN]: Server running in development mode on port 3000
+2025-04-02 23:56:16 [INFO]: MongoDB Connected: localhost
+2025-04-02 23:56:19 [INFO]: Using cached original image: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-02 23:56:19 [INFO]: Using cached transformed image: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_0x0_q40.jpg
+2025-04-02 23:56:19 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_0x0_q40.jpg
+2025-04-02 23:56:20 [INFO]: Using cached original image: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-02 23:56:20 [INFO]: Using cached transformed image: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_0x0_q40.jpg
+2025-04-02 23:56:20 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_0x0_q40.jpg
+2025-04-02 23:57:20 [WARN]: Server running in development mode on port 3000
+2025-04-02 23:57:20 [INFO]: MongoDB Connected: localhost
+2025-04-02 23:57:23 [WARN]: Server running in development mode on port 3000
+2025-04-02 23:57:23 [INFO]: MongoDB Connected: localhost
+2025-04-02 23:57:30 [INFO]: Directory created or already exists: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0
+2025-04-02 23:57:30 [INFO]: Starting download: https://www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-02 23:57:33 [INFO]: Download completed: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-02 23:57:33 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-02 23:59:28 [WARN]: Server running in development mode on port 3000
+2025-04-02 23:59:28 [INFO]: MongoDB Connected: localhost
+2025-04-02 23:59:36 [INFO]: Directory created or already exists: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0
+2025-04-02 23:59:36 [INFO]: Starting download: https://www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-02 23:59:39 [INFO]: Download completed: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-02 23:59:39 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-02 23:59:44 [INFO]: Using cached original image: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-02 23:59:44 [INFO]: Applying transformations and saving to: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_q40_r90.jpg
+2025-04-02 23:59:44 [INFO]: Image processed successfully: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_q40_r90.jpg
+2025-04-02 23:59:44 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_q40_r90.jpg
+2025-04-03 00:00:39 [WARN]: Server running in development mode on port 3000
+2025-04-03 00:00:39 [INFO]: MongoDB Connected: localhost
+2025-04-03 00:00:47 [INFO]: Directory created or already exists: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0
+2025-04-03 00:00:47 [INFO]: Starting download: https://www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-03 00:00:50 [INFO]: Download completed: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-03 00:00:50 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-03 00:01:24 [WARN]: Server running in development mode on port 3000
+2025-04-03 00:01:24 [INFO]: MongoDB Connected: localhost
+2025-04-03 00:01:25 [INFO]: Processing image: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg with {"width":0,"height":0,"crop":false,"quality":40,"resize":false,"format":"","rotate":90}
+2025-04-03 00:01:25 [INFO]: Applying format:  and quality: 40
+2025-04-03 00:01:25 [INFO]: Image saved: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_rotated90.jpg
+2025-04-03 00:01:25 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_rotated90.jpg
+2025-04-03 00:01:37 [INFO]: Processing image: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg with {"width":0,"height":0,"crop":false,"quality":40,"resize":false,"format":"","rotate":90}
+2025-04-03 00:01:37 [INFO]: Image already exists: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_rotated90.jpg
+2025-04-03 00:01:37 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_rotated90.jpg
+2025-04-03 00:01:46 [INFO]: Directory created or already exists: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/
+2025-04-03 00:01:46 [INFO]: Starting download: https://www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-03 00:01:49 [INFO]: Download completed: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-03 00:01:49 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-03 00:01:54 [INFO]: Processing image: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg with {"width":0,"height":0,"crop":false,"quality":40,"resize":false,"format":"","rotate":90}
+2025-04-03 00:01:54 [INFO]: Applying format:  and quality: 40
+2025-04-03 00:01:54 [INFO]: Image saved: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_rotated90.jpg
+2025-04-03 00:01:54 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_rotated90.jpg
+2025-04-03 00:02:54 [WARN]: Server running in development mode on port 3000
+2025-04-03 00:02:54 [INFO]: MongoDB Connected: localhost
+2025-04-03 00:03:36 [WARN]: Server running in development mode on port 3000
+2025-04-03 00:03:36 [INFO]: MongoDB Connected: localhost
+2025-04-03 00:03:40 [INFO]: Processing image: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg with {"width":0,"height":0,"crop":false,"quality":40,"resize":false,"format":"","rotate":90}
+2025-04-03 00:03:40 [INFO]: Image already exists: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_rotated90.jpg
+2025-04-03 00:03:40 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_rotated90.jpg
+2025-04-03 00:03:42 [INFO]: Processing image: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg with {"width":0,"height":0,"crop":false,"quality":40,"resize":false,"format":"","rotate":90}
+2025-04-03 00:03:42 [INFO]: Image already exists: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_rotated90.jpg
+2025-04-03 00:03:42 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_rotated90.jpg
+2025-04-03 00:04:19 [WARN]: Server running in development mode on port 3000
+2025-04-03 00:04:19 [INFO]: MongoDB Connected: localhost
+2025-04-03 00:04:49 [WARN]: Server running in development mode on port 3000
+2025-04-03 00:04:49 [INFO]: MongoDB Connected: localhost
+2025-04-03 00:04:50 [WARN]: Server running in development mode on port 3000
+2025-04-03 00:04:50 [INFO]: MongoDB Connected: localhost
+2025-04-03 00:04:51 [WARN]: Server running in development mode on port 3000
+2025-04-03 00:04:51 [INFO]: MongoDB Connected: localhost
+2025-04-03 00:05:01 [INFO]: Directory created or already exists: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/
+2025-04-03 00:05:01 [INFO]: Starting download: https://www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-03 00:05:04 [INFO]: Download completed: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-03 00:05:04 [INFO]: Processing image: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg with {"width":0,"height":0,"crop":false,"quality":40,"resize":false,"format":"","rotate":90}
+2025-04-03 00:05:04 [INFO]: Applying format:  and quality: 40
+2025-04-03 00:05:04 [INFO]: Image saved: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_rotated90.jpg
+2025-04-03 00:05:04 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_rotated90.jpg
+2025-04-03 00:05:12 [INFO]: Processing image: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg with {"width":0,"height":0,"crop":false,"quality":40,"resize":false,"format":"","rotate":0}
+2025-04-03 00:05:12 [INFO]: Image already exists: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-03 00:05:12 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-03 00:05:22 [INFO]: Processing image: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg with {"width":0,"height":0,"crop":false,"quality":40,"resize":false,"format":"png","rotate":0}
+2025-04-03 00:05:22 [INFO]: Applying format: png and quality: 40
+2025-04-03 00:05:22 [INFO]: Image saved: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.png
+2025-04-03 00:05:22 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.png
+2025-04-03 00:05:27 [INFO]: Processing image: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg with {"width":0,"height":0,"crop":false,"quality":80,"resize":false,"format":"png","rotate":0}
+2025-04-03 00:05:27 [INFO]: Image already exists: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.png
+2025-04-03 00:05:27 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.png
+2025-04-03 00:05:34 [INFO]: Processing image: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg with {"width":0,"height":0,"crop":false,"quality":90,"resize":false,"format":"png","rotate":0}
+2025-04-03 00:05:34 [INFO]: Image already exists: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.png
+2025-04-03 00:05:34 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.png
+2025-04-03 00:07:26 [WARN]: Server running in development mode on port 3000
+2025-04-03 00:07:26 [INFO]: MongoDB Connected: localhost
+2025-04-03 00:07:28 [WARN]: Server running in development mode on port 3000
+2025-04-03 00:07:28 [INFO]: MongoDB Connected: localhost
+2025-04-03 00:07:32 [INFO]: Processing image: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg with {"width":0,"height":0,"crop":false,"quality":90,"resize":false,"format":"png","rotate":0}
+2025-04-03 00:07:32 [INFO]: Applying format: png and quality: 90
+2025-04-03 00:07:33 [INFO]: Image saved: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_q90_fpng.png
+2025-04-03 00:07:33 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_q90_fpng.png
+2025-04-03 00:07:36 [INFO]: Processing image: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg with {"width":0,"height":0,"crop":false,"quality":90,"resize":false,"format":"png","rotate":0}
+2025-04-03 00:07:36 [INFO]: Image already exists: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_q90_fpng.png
+2025-04-03 00:07:36 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_q90_fpng.png
+2025-04-03 00:07:40 [INFO]: Processing image: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg with {"width":0,"height":0,"crop":false,"quality":70,"resize":false,"format":"png","rotate":0}
+2025-04-03 00:07:40 [INFO]: Applying format: png and quality: 70
+2025-04-03 00:07:41 [INFO]: Image saved: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_q70_fpng.png
+2025-04-03 00:07:41 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_q70_fpng.png
+2025-04-03 00:07:44 [INFO]: Processing image: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg with {"width":0,"height":0,"crop":false,"quality":0,"resize":false,"format":"png6","rotate":0}
+2025-04-03 00:07:44 [INFO]: Applying format: png6 and quality: 0
+2025-04-03 00:07:44 [INFO]: Image saved: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_fpng6.png6
+2025-04-03 00:07:44 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_fpng6.png6
+2025-04-03 00:07:48 [INFO]: Processing image: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg with {"width":0,"height":0,"crop":false,"quality":60,"resize":false,"format":"png","rotate":0}
+2025-04-03 00:07:48 [INFO]: Applying format: png and quality: 60
+2025-04-03 00:07:49 [INFO]: Image saved: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_q60_fpng.png
+2025-04-03 00:07:49 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_q60_fpng.png
+2025-04-03 00:08:54 [WARN]: Server running in development mode on port 3000
+2025-04-03 00:08:54 [INFO]: MongoDB Connected: localhost
+2025-04-03 00:08:56 [WARN]: Server running in development mode on port 3000
+2025-04-03 00:08:56 [INFO]: MongoDB Connected: localhost
+2025-04-03 00:08:56 [WARN]: Server running in development mode on port 3000
+2025-04-03 00:08:56 [INFO]: MongoDB Connected: localhost
+2025-04-03 00:09:36 [WARN]: Server running in development mode on port 3000
+2025-04-03 00:09:36 [INFO]: MongoDB Connected: localhost
+2025-04-03 00:09:37 [WARN]: Server running in development mode on port 3000
+2025-04-03 00:09:37 [INFO]: MongoDB Connected: localhost
+2025-04-03 00:09:38 [WARN]: Server running in development mode on port 3000
+2025-04-03 00:09:38 [INFO]: MongoDB Connected: localhost
+2025-04-03 00:09:42 [INFO]: Processing image: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg with {"width":0,"height":0,"crop":false,"quality":60,"resize":false,"format":"avif","rotate":0}
+2025-04-03 00:09:42 [INFO]: Applying format: avif and quality: 60
+2025-04-03 00:09:44 [INFO]: Image saved: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_q60_favif.avif
+2025-04-03 00:09:44 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_q60_favif.avif
+2025-04-03 00:09:59 [ERROR]: Invalid URL: Invalid URL
+2025-04-03 00:09:59 [INFO]: Directory created or already exists: /Users/admin/Desktop/image-hit-backend/src/cache/null/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/
+2025-04-03 00:10:19 [WARN]: Server running in development mode on port 3000
+2025-04-03 00:10:19 [INFO]: MongoDB Connected: localhost
+2025-04-03 00:10:20 [INFO]: Processing image: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg with {"width":0,"height":0,"crop":false,"quality":60,"resize":false,"format":"avif","rotate":0}
+2025-04-03 00:10:20 [INFO]: Image already exists: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_q60_favif.avif
+2025-04-03 00:10:20 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_q60_favif.avif
+2025-04-03 00:10:26 [INFO]: Processing image: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg with {"width":0,"height":0,"crop":false,"quality":80,"resize":false,"format":"avif","rotate":0}
+2025-04-03 00:10:26 [INFO]: Applying format: avif and quality: 80
+2025-04-03 00:10:28 [INFO]: Image saved: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_q80_favif.avif
+2025-04-03 00:10:28 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_q80_favif.avif
+2025-04-03 00:10:30 [INFO]: Processing image: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg with {"width":0,"height":0,"crop":false,"quality":80,"resize":false,"format":"avif","rotate":0}
+2025-04-03 00:10:30 [INFO]: Image already exists: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_q80_favif.avif
+2025-04-03 00:10:30 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_q80_favif.avif
+2025-04-03 00:11:48 [WARN]: Server running in development mode on port 3000
+2025-04-03 00:11:48 [INFO]: MongoDB Connected: localhost
+2025-04-03 00:11:50 [WARN]: Server running in development mode on port 3000
+2025-04-03 00:11:50 [INFO]: MongoDB Connected: localhost
+2025-04-03 00:13:00 [WARN]: Server running in development mode on port 3000
+2025-04-03 00:13:00 [INFO]: MongoDB Connected: localhost
+2025-04-03 00:13:01 [WARN]: Server running in development mode on port 3000
+2025-04-03 00:13:01 [INFO]: MongoDB Connected: localhost
+2025-04-03 00:13:02 [WARN]: Server running in development mode on port 3000
+2025-04-03 00:13:02 [INFO]: MongoDB Connected: localhost
+2025-04-03 00:13:13 [INFO]: Processing image: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-03 00:13:13 [INFO]: Image already exists: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_q80_favif.avif
+2025-04-03 00:13:13 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_q80_favif.avif
+2025-04-03 00:13:15 [INFO]: Processing image: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-03 00:13:15 [INFO]: Image already exists: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_q80_favif.avif
+2025-04-03 00:13:15 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_q80_favif.avif
+2025-04-03 00:13:16 [INFO]: Processing image: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-03 00:13:16 [INFO]: Image already exists: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_q80_favif.avif
+2025-04-03 00:13:16 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_q80_favif.avif
+2025-04-03 00:13:17 [INFO]: Processing image: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-03 00:13:17 [INFO]: Image already exists: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_q80_favif.avif
+2025-04-03 00:13:17 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_q80_favif.avif
+2025-04-03 00:13:18 [INFO]: Processing image: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-03 00:13:18 [INFO]: Image already exists: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_q80_favif.avif
+2025-04-03 00:13:18 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_q80_favif.avif
+2025-04-03 00:13:23 [INFO]: Processing image: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-03 00:13:23 [INFO]: Applying format: png and quality: 80
+2025-04-03 00:13:24 [INFO]: Image saved: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_q80_fpng.png
+2025-04-03 00:13:24 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_q80_fpng.png
+2025-04-03 00:13:27 [INFO]: Processing image: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-03 00:13:27 [INFO]: Image already exists: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_q80_fpng.png
+2025-04-03 00:13:27 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_q80_fpng.png
+2025-04-03 00:13:30 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-03 00:13:30 [INFO]: Processing image: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-03 00:13:30 [INFO]: Image saved: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_q80.jpg
+2025-04-03 00:13:30 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_q80.jpg
+2025-04-03 00:13:32 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-03 00:13:32 [INFO]: Processing image: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-03 00:13:32 [INFO]: Image already exists: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_q80.jpg
+2025-04-03 00:13:32 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_q80.jpg
+2025-04-03 00:14:31 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-03 00:14:31 [INFO]: Processing image: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-03 00:14:31 [INFO]: Image already exists: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_q80.jpg
+2025-04-03 00:14:31 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_q80.jpg
+2025-04-03 00:14:38 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-03 00:14:38 [INFO]: Processing image: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-03 00:14:38 [INFO]: Image already exists: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_q80.jpg
+2025-04-03 00:14:38 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_q80.jpg
+2025-04-03 00:14:44 [WARN]: Server running in development mode on port 3000
+2025-04-03 00:14:44 [INFO]: MongoDB Connected: localhost
+2025-04-03 00:14:45 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-03 00:14:45 [INFO]: Processing image: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-03 00:14:45 [INFO]: Image already exists: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_q80.jpg
+2025-04-03 00:14:45 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_q80.jpg
+2025-04-03 00:15:00 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-03 00:15:00 [INFO]: Processing image: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-03 00:15:00 [INFO]: Image already exists: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_q80.jpg
+2025-04-03 00:15:00 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_q80.jpg
+2025-04-03 00:15:44 [INFO]: Directory created or already exists: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/
+2025-04-03 00:15:44 [INFO]: Starting download: https://www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-03 00:15:47 [INFO]: Download completed: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-03 00:15:47 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-03 00:15:51 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-03 00:15:51 [INFO]: Processing image: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-03 00:15:51 [INFO]: Image saved: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_q80.jpg
+2025-04-03 00:15:51 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_q80.jpg
+2025-04-03 00:15:59 [INFO]: Processing image: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-03 00:15:59 [INFO]: Image saved: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_q80_r90.jpg
+2025-04-03 00:15:59 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_q80_r90.jpg
+2025-04-03 00:16:20 [INFO]: Processing image: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-03 00:16:20 [INFO]: Image already exists: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_q80_r90.jpg
+2025-04-03 00:16:20 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_q80_r90.jpg
+2025-04-03 00:16:23 [INFO]: Processing image: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-03 00:16:23 [INFO]: Image already exists: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_q80_r90.jpg
+2025-04-03 00:16:23 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_q80_r90.jpg
+2025-04-03 00:16:25 [INFO]: Processing image: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-03 00:16:25 [INFO]: Image already exists: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_q80_r90.jpg
+2025-04-03 00:16:25 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_q80_r90.jpg
+2025-04-03 00:16:31 [INFO]: Processing image: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-03 00:16:31 [INFO]: Image saved: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_q50_r90.jpg
+2025-04-03 00:16:31 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_q50_r90.jpg
+2025-04-03 00:16:52 [INFO]: Processing image: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-03 00:16:52 [INFO]: Image saved: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_q50_r90_fjpg.jpg
+2025-04-03 00:16:52 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_q50_r90_fjpg.jpg
+2025-04-03 00:16:54 [INFO]: Processing image: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-03 00:16:54 [INFO]: Image already exists: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_q50_r90_fjpg.jpg
+2025-04-03 00:16:54 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_q50_r90_fjpg.jpg
+2025-04-03 00:17:08 [INFO]: Processing image: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-03 00:17:08 [INFO]: Image saved: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_q50_fjpg.jpg
+2025-04-03 00:17:08 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_q50_fjpg.jpg
+2025-04-03 00:17:17 [INFO]: Processing image: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-03 00:17:18 [INFO]: Image saved: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_q10_fjpg.jpg
+2025-04-03 00:17:18 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_q10_fjpg.jpg
+2025-04-03 00:17:24 [INFO]: Processing image: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-03 00:17:24 [INFO]: Image already exists: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_q10_fjpg.jpg
+2025-04-03 00:17:24 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_q10_fjpg.jpg
+2025-04-03 00:17:26 [INFO]: Processing image: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-03 00:17:26 [INFO]: Image already exists: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_q10_fjpg.jpg
+2025-04-03 00:17:26 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_q10_fjpg.jpg
+2025-04-03 00:17:31 [INFO]: Processing image: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-03 00:17:31 [INFO]: Image saved: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_q10.jpg
+2025-04-03 00:17:31 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_q10.jpg
+2025-04-03 00:17:35 [INFO]: Processing image: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-03 00:17:35 [INFO]: Image already exists: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_q10.jpg
+2025-04-03 00:17:35 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_q10.jpg
+2025-04-03 00:18:29 [WARN]: Server running in development mode on port 3000
+2025-04-03 00:18:29 [INFO]: MongoDB Connected: localhost
+2025-04-03 00:18:32 [WARN]: Server running in development mode on port 3000
+2025-04-03 00:18:32 [INFO]: MongoDB Connected: localhost
+2025-04-03 00:18:39 [WARN]: Server running in development mode on port 3000
+2025-04-03 00:18:39 [INFO]: MongoDB Connected: localhost
+2025-04-03 00:18:41 [WARN]: Server running in development mode on port 3000
+2025-04-03 00:18:41 [INFO]: MongoDB Connected: localhost
+2025-04-03 00:18:46 [WARN]: Server running in development mode on port 3000
+2025-04-03 00:18:46 [INFO]: MongoDB Connected: localhost
+2025-04-03 00:18:48 [INFO]: Processing image: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-03 00:18:48 [INFO]: Image already exists: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_q10.jpg
+2025-04-03 00:18:48 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_q10.jpg
+2025-04-03 00:18:51 [INFO]: Processing image: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-03 00:18:51 [INFO]: Image already exists: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_q10.jpg
+2025-04-03 00:18:51 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_q10.jpg
+2025-04-03 00:18:53 [INFO]: Processing image: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-03 00:18:53 [INFO]: Image already exists: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_q10.jpg
+2025-04-03 00:18:53 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_q10.jpg
+2025-04-03 00:18:58 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-03 00:18:58 [INFO]: Processing image: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-03 00:18:58 [INFO]: Image already exists: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_q80.jpg
+2025-04-03 00:18:58 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_q80.jpg
+2025-04-03 00:19:00 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-03 00:19:00 [INFO]: Processing image: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-03 00:19:00 [INFO]: Image already exists: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_q80.jpg
+2025-04-03 00:19:00 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_q80.jpg
+2025-04-03 00:19:24 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-03 00:19:24 [INFO]: Processing image: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-03 00:19:24 [INFO]: Image already exists: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_q80.jpg
+2025-04-03 00:19:24 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_q80.jpg
+2025-04-03 00:19:25 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-03 00:19:25 [INFO]: Processing image: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-03 00:19:25 [INFO]: Image already exists: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_q80.jpg
+2025-04-03 00:19:25 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_q80.jpg
+2025-04-03 00:19:26 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-03 00:19:26 [INFO]: Processing image: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-03 00:19:26 [INFO]: Image already exists: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_q80.jpg
+2025-04-03 00:19:26 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_q80.jpg
+2025-04-03 00:19:27 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-03 00:19:27 [INFO]: Processing image: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-03 00:19:27 [INFO]: Image already exists: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_q80.jpg
+2025-04-03 00:19:27 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_q80.jpg
+2025-04-03 00:19:28 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-03 00:19:28 [INFO]: Processing image: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-03 00:19:28 [INFO]: Image already exists: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_q80.jpg
+2025-04-03 00:19:28 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_q80.jpg
+2025-04-03 00:19:32 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-03 00:19:32 [INFO]: Processing image: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-03 00:19:32 [INFO]: Image already exists: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_q80.jpg
+2025-04-03 00:19:32 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_q80.jpg
+2025-04-03 00:19:33 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-03 00:19:33 [INFO]: Processing image: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-03 00:19:33 [INFO]: Image already exists: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_q80.jpg
+2025-04-03 00:19:33 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_q80.jpg
+2025-04-03 00:19:34 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-03 00:19:34 [INFO]: Processing image: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-03 00:19:34 [INFO]: Image already exists: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_q80.jpg
+2025-04-03 00:19:34 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_q80.jpg
+2025-04-03 00:19:35 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-03 00:19:35 [INFO]: Processing image: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-03 00:19:35 [INFO]: Image already exists: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_q80.jpg
+2025-04-03 00:19:35 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_q80.jpg
+2025-04-03 00:19:35 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-03 00:19:35 [INFO]: Processing image: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-03 00:19:35 [INFO]: Image already exists: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_q80.jpg
+2025-04-03 00:19:35 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_q80.jpg
+2025-04-03 00:19:36 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-03 00:19:36 [INFO]: Processing image: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-03 00:19:36 [INFO]: Image already exists: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_q80.jpg
+2025-04-03 00:19:36 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_q80.jpg
+2025-04-03 00:19:37 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-03 00:19:37 [INFO]: Processing image: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-03 00:19:37 [INFO]: Image already exists: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_q80.jpg
+2025-04-03 00:19:37 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_q80.jpg
+2025-04-03 00:19:43 [INFO]: Processing image: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1.jpg
+2025-04-03 00:19:43 [INFO]: Applying format: avif and quality: 80
+2025-04-03 00:19:45 [INFO]: Image saved: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_q80_favif.avif
+2025-04-03 00:19:45 [INFO]: Sending file: /Users/admin/Desktop/image-hit-backend/src/cache/www.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/f/a/0x0/favre-leuba-sea-sky-revival-00-20212-112-03-101-large_1_1_q80_favif.avif

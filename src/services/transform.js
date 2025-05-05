@@ -65,6 +65,7 @@ export const getImage = async (req, res) => {
   } = constructImageData(parsedRequestUrl, domain);
 
   fileExists(cachedFilePath).then(async (exists) => {
+    
     if (exists) {
       if (!tranformationRequest) sendFile(res, cachedFilePath);
 
@@ -74,7 +75,14 @@ export const getImage = async (req, res) => {
     } else {
       await createDirectory(cacheDirectory);
       const newFile = await downloadFileSync(downloadUrl, cachedFilePath);
-      sendFile(res, newFile);
+      
+      if (tranformationRequest) {
+        processImage(newFile, tranformationRequestObject)
+          .then((outputPath) => sendFile(res, outputPath))
+          .catch((err) => console.error(err));
+      } else {
+        sendFile(res, newFile);
+      }
     }
   });
 };

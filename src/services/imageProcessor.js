@@ -3,66 +3,80 @@ import path from "path";
 import Sharp from "sharp";
 import logger from "../utils/logger.js";
 
+// Constants for default values and supported formats
+const DEFAULT_VALUES = {
+  QUALITY: 80,
+  WIDTH: 0,
+  HEIGHT: 0,
+  ROTATE: 0
+};
+
+const SUPPORTED_FORMATS = ['jpeg', 'png', 'webp', 'avif'];
+
+// Type definitions for better code documentation
+/**
+ * @typedef {Object} ImageParams
+ * @property {number} width - Image width
+ * @property {number} height - Image height
+ * @property {boolean} crop - Crop setting
+ * @property {number} quality - Image quality
+ * @property {boolean} resize - Resize flag
+ * @property {string} format - Image format
+ * @property {number} rotate - Rotation angle
+ */
+
 export function parseImageParams(atts) {
-  let width = 0,
-    height = 0,
-    rotate = 0,
-    crop = false,
-    quality = 80,
-    resize = false,
-    format = "";
+  logger.debug(`Parsing image parameters: ${atts}`);
+  const params = {
+    width: DEFAULT_VALUES.WIDTH,
+    height: DEFAULT_VALUES.HEIGHT,
+    rotate: DEFAULT_VALUES.ROTATE,
+    crop: false,
+    quality: DEFAULT_VALUES.QUALITY,
+    resize: false,
+    format: ""
+  };
 
-  if (typeof atts !== "undefined" && atts.length > 0) {
-    atts = atts.split(",");
-    let filters = {};
+  if (!atts?.length) return params;
 
-    atts.forEach((att) => {
-      let [key, value] = att.split("-");
-      filters[key] = value;
-    });
+  const filters = atts.split(",").reduce((acc, att) => {
+    const [key, value] = att.split("-");
+    return { ...acc, [key]: value };
+  }, {});
 
-    Object.entries(filters).forEach(([key, value]) => {
-      switch (key) {
-        case "w":
-          width = parseInt(value);
-          resize = true;
-          break;
-        case "h":
-          height = parseInt(value);
-          resize = true;
-          break;
-        case "q":
-          quality = parseInt(value);
-          break;
-        case "c":
-          crop = value;
-          break;
-        case "f":
-          format = value;
-          break;
-        case "r":
-          rotate = parseInt(value);
-          break;
-      }
-    });
-  }
+  const parameterMap = {
+    w: { key: 'width', transform: parseInt, setResize: true },
+    h: { key: 'height', transform: parseInt, setResize: true },
+    q: { key: 'quality', transform: parseInt },
+    c: { key: 'crop', transform: (v) => v },
+    f: { key: 'format', transform: (v) => v },
+    r: { key: 'rotate', transform: parseInt }
+  };
 
-  return { width, height, crop, quality, resize, format, rotate };
+  Object.entries(filters).forEach(([key, value]) => {
+    const parameter = parameterMap[key];
+    if (parameter) {
+      params[parameter.key] = parameter.transform(value);
+      if (parameter.setResize) params.resize = true;
+    }
+  });
+
+  logger.debug(`Parsed parameters:`, params);
+  return params;
 }
 
 function applyImageFormat(image, format, quality) {
-  logger.info(`Applying format: ${format} and quality: ${quality}`);
-  switch (format) {
-    case "jpeg":
-      image.jpeg({ quality });
-      break;
-    case "png":
-      image.png({ quality });
-      break;
-    case "webp":
-      image.webp({ quality });
-      break;
+  logger.debug(`Applying format transformation - format: ${format}, quality: ${quality}`);
+  if (!format || !SUPPORTED_FORMATS.includes(format)) {
+    // If no format specified, apply quality to the existing format
+    const options = quality ? { quality } : {};
+    logger.debug(`Applying quality transformation with options:`, options);
+    return image.jpeg(options).png(options).webp(options);
   }
+  
+  logger.info(`Applying format: ${format} and quality: ${quality}`);
+  const options = quality ? { quality } : {};
+  image[format](options);
 }
 
 function resizeImage(image, width, height, resize) {
@@ -82,50 +96,87 @@ function createDirectory(directory) {
     fs.mkdirSync(directory, { recursive: true });
   }
 }
+
+/**
+ * Processes image with given transformations
+ * @param {string} filePath - Path to source image
+ * @param {ImageParams} transformObject - Transformation parameters
+ * @returns {Promise<string>} Path to processed image
+ */
 export async function processImage(filePath, transformObject) {
-  logger.info(
-    `Processing image: ${filePath} with ${JSON.stringify(transformObject)}`
-  );
+  try {
+    logger.info(`Processing image: ${filePath}`, transformObject);
 
-  let suffixes = [];
+    const outputPath = generateOutputPath(filePath, transformObject);
+    
+    if (fs.existsSync(outputPath)) {
+      logger.info(`Image already exists: ${outputPath}`);
+      return outputPath;
+    }
 
-  // Construct the output directory path
+    const image = await applyTransformations(filePath, transformObject);
+    await saveImage(image, outputPath);
+    
+    return outputPath;
+  } catch (error) {
+    logger.error("Image processing failed:", error);
+    return "";
+  }
+}
+
+/**
+ * Generates output path for processed image
+ * @private
+ */
+function generateOutputPath(filePath, transformObject) {
+  const suffixes = generateSuffixes(transformObject);
   const parentDir = path.dirname(path.dirname(filePath));
   const directory = path.join(
     parentDir,
     `${transformObject.width || "0"}x${transformObject.height || "0"}`
   );
-  createDirectory(directory); // Ensure directory exists
-
-  // Determine file extension
+  
+  createDirectory(directory);
+  
   const extension = transformObject.format
     ? `.${transformObject.format}`
     : path.extname(filePath);
-
-  // Generate suffix string based on transformations
-  if (transformObject.rotate) suffixes.push(`rotated${transformObject.rotate}`);
-  if (transformObject.bgRemove) suffixes.push("bgRemoved");
-
+    
+  const baseName = path.basename(filePath, path.extname(filePath));
   const suffixString = suffixes.length ? `_${suffixes.join("_")}` : "";
-  const outputFilePath = path.join(
-    directory,
-    `${path.basename(
-      filePath,
-      path.extname(filePath)
-    )}${suffixString}${extension}`
-  );
+  
+  return path.join(directory, `${baseName}${suffixString}${extension}`);
+}
 
-  // **Check if image already exists**
-  if (fs.existsSync(outputFilePath)) {
-    logger.info(`Image already exists: ${outputFilePath}`);
-    return outputFilePath;
-  }
+/**
+ * Generates transformation suffixes for filename
+ * @private
+ */
+function generateSuffixes(transformObject) {
+  const suffixRules = [
+    { condition: transformObject.width || transformObject.height, 
+      value: () => `${transformObject.width || 0}x${transformObject.height || 0}` },
+    { condition: transformObject.quality, value: () => `q${transformObject.quality}` },
+    { condition: transformObject.rotate, value: () => `r${transformObject.rotate}` },
+    { condition: transformObject.format, value: () => `f${transformObject.format}` },
+    { condition: transformObject.crop, value: () => `c${transformObject.crop}` },
+    { condition: transformObject.bgRemove, value: () => "bgRemoved" }
+  ];
 
-  // **Apply transformations**
-  let image = Sharp(filePath);
+  return suffixRules
+    .filter(rule => rule.condition)
+    .map(rule => rule.value());
+}
+
+/**
+ * Applies image transformations
+ * @private
+ */
+async function applyTransformations(filePath, transformObject) {
+  const image = Sharp(filePath);
 
   if (transformObject.width || transformObject.height) {
-    image = image.resize(transformObject.width, transformObject.height, {
+    image.resize(transformObject.width, transformObject.height, {
       fit: transformObject.resize || "cover",
     });
   }
@@ -135,20 +186,22 @@ export async function processImage(filePath, transformObject) {
   }
 
   if (transformObject.rotate) {
-    image = image.rotate(transformObject.rotate);
+    image.rotate(transformObject.rotate);
   }
 
   if (transformObject.bgRemove) {
-    removeBackground(image);
+    await removeBackground(image);
   }
 
-  try {
-    const data = await image.toBuffer();
-    fs.writeFileSync(outputFilePath, data);
-    logger.info(`Image saved: ${outputFilePath}`);
-    return outputFilePath;
-  } catch (err) {
-    logger.error("Sharp Error:", err);
-    return "";
-  }
+  return image;
+}
+
+/**
+ * Saves processed image to disk
+ * @private
+ */
+async function saveImage(image, outputPath) {
+  const data = await image.toBuffer();
+  fs.writeFileSync(outputPath, data);
+  logger.info(`Image saved: ${outputPath}`);
 }
